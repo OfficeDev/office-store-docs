@@ -1,1 +1,1 @@
-# Office Store documentation
+# Office Store documentation.
