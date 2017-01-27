@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Menu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SupportedProduct="|OfficeStore" SupportedVersion="|V1.0| >
+<Menu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SupportedProduct="|OfficeStore" SupportedVersion="|V1.0|">
 
-<Item text="Submit add-ins and web apps to the Office Store" url="submit-add-ins-and-web-apps-to-the-office-store" >
+<Item text="Submit apps and add-ins to the Office Store" url="submit-add-ins-and-web-apps-to-the-office-store" >
 	<Item text="Optimize for Office Store discovery" url="optimize-for-store-discovery" />
 	<Item text="License your add-ins" url="license-your-add-ins" >
 		<Item text="How add-in licenses work" url="how-licenses-work" />
