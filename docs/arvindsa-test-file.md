@@ -1,5 +1,5 @@
 ```
-<OfficeApp>
-</OfficeApp>
+<OfficeAppNew>
+</OfficeAppNew>
   ```
 
