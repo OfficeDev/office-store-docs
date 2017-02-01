@@ -1,52 +1,5 @@
 
 
-```C#
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
-using System.Collections.Specialized;
-using System.Text;
-using EtokenWeb.OmexTokenService;
-
-namespace EtokenWeb{
-
-    public partial class EToken : System.Web.UI.Page{
-        public string etoken = "";
-        private static VerificationServiceClient service = new VerificationServiceClient();
-
-        protected void Page_Load(object sender, EventArgs e){
-           
-            etoken = Request.QueryString["et"];
-            if (etoken != null)
-            {
-                Response.Write("my value:" + etoken + "<br>");
-                CallVerificationService(etoken);
-            }
-            else
-                Response.Write("no token provided<br>?");
-        }
-
-        private void CallVerificationService(string etoken){
-            VerifyEntitlementTokenRequest request = new VerifyEntitlementTokenRequest();
-            request.EntitlementToken =  DecodeToken(etoken);
-            VerifyEntitlementTokenResponse  omexResponse = service.VerifyEntitlementToken(request);
-            Response.Write("Is Test:" + omexResponse.IsTest + "<br>") ;
-            Response.Write("User ID: "+ omexResponse.UserId + "<br>") ;
-        }
-
-        private static string DecodeToken(string encodedToken){
-            byte[] decodedBytes = Convert.FromBase64String(encodedToken);
-            return Encoding.Unicode.GetString(decodedBytes);
-        }
-    }
-}
-
-```
-
-
 ## Inject an add-in license into an Office Add-in at runtime
 <a name="bk_add"> </a>
 
