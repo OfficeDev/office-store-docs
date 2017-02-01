@@ -1,43 +1,4 @@
 
-5.  **Debug** > **Start debugging**, or press F5.
-    
-     **Note**  At the time of publication, Visual Studio will display a message that there were deployment errors, and the license token specified in the  `<d>` tag won't be loaded. However, the other values in the license are loaded and will be available to your add-in license check code.
-6. To visually confirm that the test license is loaded, choose the pop-out menu in the upper right corner of the add-in pane, and then choose  **Security Info**.
-    
- 
-
-### To load a test license from the file system
-
-
-1. Create a folder that is accessible via a UNC path (c:\ _folder_ or \\ _server_\ _share_).
-    
- 
-2. Add the manifest file for your add-in to the folder (the file name must have an .xml extension). The following code shows an example manifest file for a content add-in.
-    
-  ```XML
-  <?xml version="1.0" encoding="utf-8"?>
-<OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ContentApp">
-  <Id>9C4675F6-45A0-47EE-B9A4-D834F45467672</Id>
-  <Version>15.0</Version>
-  <ProviderName>Microsoft</ProviderName>
-  <DefaultLocale>en-us</DefaultLocale>
-  <DisplayName DefaultValue="GetToken">
-  </DisplayName>
-  <Description DefaultValue="Get Token">
-  </Description>
-  <Hosts>
-    <Host Name="Workbook"/>
-  </Hosts>
-  <DefaultSettings>
-    <SourceLocation DefaultValue="http://MyServer/GetToken.htm">
-    </SourceLocation>
-    <RequestedWidth>400</RequestedWidth>
-    <RequestedHeight>400</RequestedHeight>
-  </DefaultSettings>
-  <Permissions>ReadWriteDocument</Permissions>
-  <AllowSnapshot>true</AllowSnapshot>
-</OfficeApp>
-  ```
 
 3. Add the token file to the folder. The token file name must be the same as the manifest file name and must have a .tok file extension. The following code shows an example token file. Refer to the  [Office and SharePoint Add-in license XML schema structure](office-and-sharepoint-add-in-license-xml-schema-structure.md) for details about the attribute values you can set in the **t** element of the token file.
     
