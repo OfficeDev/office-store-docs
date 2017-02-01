@@ -349,7 +349,7 @@ Both methods allow an add-in to get the license the same way it would if it were
 
  ```
   <?xml version="1.0" encoding="utf-8"?>
-<OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ContentApp">
+<OfficeAppNew xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ContentApp">
   <Id>9C4675F6-45A0-47EE-B9A4-D834F45467672</Id>
   <Version>15.0</Version>
   <ProviderName>Microsoft</ProviderName>
@@ -369,7 +369,7 @@ Both methods allow an add-in to get the license the same way it would if it were
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
   <AllowSnapshot>true</AllowSnapshot>
-</OfficeApp>
+</OfficeAppNew>
   ```
 
     
