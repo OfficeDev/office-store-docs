@@ -3,6 +3,11 @@
     "parentLink": "officestore/docs/submit-add-ins-and-web-apps-to-the-office-store",
     "DropdownOptions": [
         {
+            "Title": "Office Store docs",
+            "URL": "/officestore/docs/submit-add-ins-and-web-apps-to-the-office-store",
+            "Index":  "/officestore/docs/"
+        },
+        {
             "Title": "Office Add-ins docs",
             "URL": "/docs/add-ins/overview/office-add-ins",
             "Index":  "/docs/add-ins/"
