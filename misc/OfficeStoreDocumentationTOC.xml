@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Menu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SupportedProduct="|OfficeStore" SupportedVersion="|V1.0|">
 
-<Item text="Submit apps and add-ins to the Office Store" url="submit-add-ins-and-web-apps-to-the-office-store" >
-	<Item text="Optimize for Office Store discovery" url="optimize-for-store-discovery" />
-	<Item text="License your add-ins" url="license-your-add-ins" >
-		<Item text="How add-in licenses work" url="how-licenses-work" />
-		<Item text="Add license checks to Office and SharePoint Add-ins" url="add-license-checks-to-office-and-sharepoint-add-ins" />
-		<Item text="Add-in license schema" url="add-in-license-schema" />
-	</Item>	
-	<Item text="Create or update client IDs and secrets" url="create-or-update-client-ids-and-secrets" />
-	<Item text="Checklist for submitting apps and add-ins to the Seller Dashboard" url="checklist-for-submitting-apps-and-add-ins-to-the-seller-dashboad" />
-	<Item text="Prepare localized apps and add-ins" url="prepare-localized-apps-and-add-ins" />
-	<Item text="Decide on a pricing model" url="decide-on-a-pricing-model" />
-	<Item text="Use the Seller Dashboard to submit apps and add-ins to the Office Store" url="use-the-seller-dashboard-to-submit-apps-and-add-ins-to-the-office-store" />
-	<Item text="Submit apps for Office 365 operated by 21Vianet in China" url="submit-apps-for-office-365-operated-by-21vianet-in-china" />
-	<Item text="Update, unpublish, and view app and add-in metrics" url="update-unpublish-and-view-app-and-add-in-metrics" />
-	<Item text="Create effective Office Store apps and add-ins" url="create-effective-office-store-apps-and-add-ins" />
-	<Item text="Office Store submission FAQ" url="office-store-app-and-add-in-submission-faq" />
-	<Item text="Validation policies" url="validation-policies" />
-	<Item text="Promote your app or add-in" url="promote-your-app-or-add-in" />
-	<Item text="Seller Dashboard accessibility features" url="seller-dashboard-accessibility-features" />
-</Item>
+<Item text="Submit apps and add-ins to the Office Store" url="submit-add-ins-and-web-apps-to-the-office-store" />
+<Item text="Optimize for Office Store discovery" url="optimize-for-store-discovery" />
+<Item text="License your add-ins" url="license-your-add-ins" >
+	<Item text="How add-in licenses work" url="how-licenses-work" />
+	<Item text="Add license checks to Office and SharePoint Add-ins" url="add-license-checks-to-office-and-sharepoint-add-ins" />
+	<Item text="Add-in license schema" url="add-in-license-schema" />
+</Item>	
+<Item text="Create or update client IDs and secrets" url="create-or-update-client-ids-and-secrets" />
+<Item text="Checklist for submitting apps and add-ins to the Seller Dashboard" url="checklist-for-submitting-apps-and-add-ins-to-the-seller-dashboad" />
+<Item text="Prepare localized apps and add-ins" url="prepare-localized-apps-and-add-ins" />
+<Item text="Decide on a pricing model" url="decide-on-a-pricing-model" />
+<Item text="Use the Seller Dashboard to submit apps and add-ins to the Office Store" url="use-the-seller-dashboard-to-submit-apps-and-add-ins-to-the-office-store" />
+<Item text="Submit apps for Office 365 operated by 21Vianet in China" url="submit-apps-for-office-365-operated-by-21vianet-in-china" />
+<Item text="Update, unpublish, and view app and add-in metrics" url="update-unpublish-and-view-app-and-add-in-metrics" />
+<Item text="Create effective Office Store apps and add-ins" url="create-effective-office-store-apps-and-add-ins" />
+<Item text="Office Store submission FAQ" url="office-store-app-and-add-in-submission-faq" />
+<Item text="Validation policies" url="validation-policies" />
+<Item text="Promote your app or add-in" url="promote-your-app-or-add-in" />
+<Item text="Seller Dashboard accessibility features" url="seller-dashboard-accessibility-features" />
 </Menu>
