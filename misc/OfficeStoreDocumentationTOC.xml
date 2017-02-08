@@ -8,17 +8,17 @@
 	<Item text="Add license checks to Office and SharePoint Add-ins" url="add-license-checks-to-office-and-sharepoint-add-ins" />
 	<Item text="Add-in license schema" url="add-in-license-schema" />
 </Item>	
-<Item text="Create or update client IDs and secrets" url="create-or-update-client-ids-and-secrets" />
+<Item text="Create effective Office Store apps and add-ins" url="create-effective-office-store-apps-and-add-ins" />
 <Item text="Prepare localized apps and add-ins" url="prepare-localized-apps-and-add-ins" />
-<Item text="Decide on a pricing model" url="decide-on-a-pricing-model" />
 <Item text="Seller Dashboard submission process" url="use-the-seller-dashboard-to-submit-apps-and-add-ins-to-the-office-store" >
 	<Item text="Upload your add-in package" url="upload-add-in-package" />
-	<Item text="Store listing" url="office-store-listing" />
+	<Item text="Create your Store listing" url="office-store-listing" />
+	<Item text="Decide on a pricing model" url="decide-on-a-pricing-model" />
+	<Item text="Create or update client IDs and secrets" url="create-or-update-client-ids-and-secrets" />
+	<Item text="Office Store submission FAQ" url="office-store-app-and-add-in-submission-faq" />
 </Item>
 <Item text="Submit apps for Office 365 operated by 21Vianet in China" url="submit-apps-for-office-365-operated-by-21vianet-in-china" />
 <Item text="Update, unpublish, and view app and add-in metrics" url="update-unpublish-and-view-app-and-add-in-metrics" />
-<Item text="Create effective Office Store apps and add-ins" url="create-effective-office-store-apps-and-add-ins" />
-<Item text="Office Store submission FAQ" url="office-store-app-and-add-in-submission-faq" />
 <Item text="Validation policies" url="validation-policies" />
 <Item text="Promote your app or add-in" url="promote-your-app-or-add-in" />
 <Item text="Seller Dashboard accessibility features" url="seller-dashboard-accessibility-features" />
