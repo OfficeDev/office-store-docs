@@ -12,7 +12,7 @@
 <Item text="Prepare localized apps and add-ins" url="prepare-localized-apps-and-add-ins" />
 <Item text="Decide on a pricing model" url="decide-on-a-pricing-model" />
 <Item text="Use the Seller Dashboard to submit apps and add-ins to the Office Store" url="use-the-seller-dashboard-to-submit-apps-and-add-ins-to-the-office-store" >
-	<Item text="Upload your add-in package" url"upload-add-in-package" />
+	<Item text="Upload your add-in package" url="upload-add-in-package" />
 </Item>
 <Item text="Submit apps for Office 365 operated by 21Vianet in China" url="submit-apps-for-office-365-operated-by-21vianet-in-china" />
 <Item text="Update, unpublish, and view app and add-in metrics" url="update-unpublish-and-view-app-and-add-in-metrics" />
