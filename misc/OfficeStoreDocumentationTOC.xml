@@ -11,7 +11,7 @@
 <Item text="Create or update client IDs and secrets" url="create-or-update-client-ids-and-secrets" />
 <Item text="Prepare localized apps and add-ins" url="prepare-localized-apps-and-add-ins" />
 <Item text="Decide on a pricing model" url="decide-on-a-pricing-model" />
-<Item text="Use the Seller Dashboard to submit apps and add-ins to the Office Store" url="use-the-seller-dashboard-to-submit-apps-and-add-ins-to-the-office-store" >
+<Item text="Seller Dashboard submission process" url="use-the-seller-dashboard-to-submit-apps-and-add-ins-to-the-office-store" >
 	<Item text="Upload your add-in package" url="upload-add-in-package" />
 	<Item text="Store listing" url="office-store-listing" />
 </Item>
