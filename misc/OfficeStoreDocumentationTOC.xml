@@ -15,7 +15,7 @@
 	<Item text="Create your Store listing" url="office-store-listing" />
 	<Item text="Decide on a pricing model" url="decide-on-a-pricing-model" />
 	<Item text="Create or update client IDs and secrets" url="create-or-update-client-ids-and-secrets" />
-	<Item text="Office Store submission FAQ" url="office-store-app-and-add-in-submission-faq" />
+	<Item text="Office Store submission FAQ" url="office-store-submission-faq" />
 </Item>
 <Item text="Submit SharePoint Add-ins for Office 365 operated by 21Vianet in China" url="submit-sharepoint-add-ins-for-office-365-operated-by-21vianet-in-china" />
 <Item text="Update, unpublish, and view metrics" url="update-unpublish-and-view-metrics" />
