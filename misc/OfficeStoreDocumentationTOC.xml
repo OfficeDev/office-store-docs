@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Menu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SupportedProduct="|OfficeStore" SupportedVersion="|V1.0|">
 
-<Item text="Submit solutions to the Office Store" url="submit-to-the-office-store" />
-<Item text="Optimize for Office Store discovery" url="optimize-for-store-discovery" />
+<Item text="Submit to the Office Store" url="submit-to-the-office-store" />
+<Item text="Optimize add-ins for Office Store discovery" url="optimize-for-store-discovery" />
 <Item text="License your add-ins" url="license-your-add-ins" >
 	<Item text="How add-in licenses work" url="how-licenses-work" />
 	<Item text="Add license checks to Office and SharePoint Add-ins" url="add-license-checks-to-office-and-sharepoint-add-ins" />
