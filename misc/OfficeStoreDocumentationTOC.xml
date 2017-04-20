@@ -6,6 +6,7 @@
 <Item text="License your add-ins" url="license-your-add-ins" >
 	<Item text="How add-in licenses work" url="how-licenses-work" />
 	<Item text="Add license checks to Office and SharePoint Add-ins" url="add-license-checks-to-office-and-sharepoint-add-ins" />
+	<Item text="Implement licensing to upsell add-ins" url="implement-licensing-for-add-in-services" />
 	<Item text="Add-in license schema" url="add-in-license-schema" />
 </Item>	
 <Item text="Create effective Office Store listings" url="create-effective-office-store-listings" />
@@ -13,6 +14,7 @@
 <Item text="Submit to the Seller Dashboard" url="use-the-seller-dashboard-to-submit-to-the-office-store" >
 	<Item text="Upload your package" url="upload-package" />
 	<Item text="Create your Store listing" url="office-store-listing" />
+	<Item text="Add lead management details" url="add-lead-management-details" />
 	<Item text="Decide on a pricing model" url="decide-on-a-pricing-model" />
 	<Item text="Create or update client IDs and secrets" url="create-or-update-client-ids-and-secrets" />
 	<Item text="Office Store submission FAQ" url="office-store-submission-faq" />
