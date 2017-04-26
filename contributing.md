@@ -17,6 +17,7 @@ Here are some ways you can contribute to this documentation:
 * To make large changes, or changes that involve code, [Contribute using Git](#contribute-using-git).
 * Report documentation bugs via GitHub Issues
 * Request new documentation at the [Office Developer Platform UserVoice](http://officespdev.uservoice.com) site.
+
 ## Contribute using GitHub
 
 Use GitHub to contribute to this documentation without having to clone the repo to your desktop. This is the easiest way to create a pull request in this repository. Use this method to make a minor change that doesn't involve code changes. 
