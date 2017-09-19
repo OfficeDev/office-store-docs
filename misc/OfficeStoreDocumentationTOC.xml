@@ -3,7 +3,7 @@
 
 <Item text="Submit to the Office Store" url="submit-to-the-office-store" SEODescription="Upload your new Office Add-ins, SharePoint Add-ins, Power BI custom visuals, and Microsoft Teams applications that provide solutions for both consumers and businesses." />
 <Item text="Optimize add-ins for Office Store discovery" url="optimize-for-store-discovery" SEODescription="Apply the best practices for add-in development to optimize the Office Store placement and ranking in store search results." />
-<Item text="License your add-ins" url="license-your-add-ins" SEODescription="Include code in your add-ins to allow access to only those users who have a valid license, or to specify which features are available, based on the properties of that license."  />
+<Item text="License your add-ins" url="license-your-add-ins" SEODescription="Include code in your add-ins to allow access to only those users who have a valid license, or to specify which features are available, based on the properties of that license."  >
 	<Item text="How add-in licenses work" url="how-licenses-work" SEODescription="Write effective license checks by understanding the types of licenses that are available, how users acquire licenses, and how licenses work in terms of duration and scope." />
 	<Item text="Add license checks to Office and SharePoint Add-ins" url="add-license-checks-to-office-and-sharepoint-add-ins" SEODescription="Test and implement your Office Add-in's license-checking code."  />
 	<Item text="Implement licensing to upsell add-ins" url="implement-licensing-for-add-in-services" SEODescription="Use licensing to upsell your services and expose different functionality or messaging depending on whether the customer paid for that service." />
