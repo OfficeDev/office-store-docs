@@ -1,5 +1,5 @@
 # Office Store documentation
-Welcome to the Office Store documentation. Here you can find content related to publishing apps and add-ins to the Office Store.  For the best experience, we recommend that you view this content on [dev.office.com](https://dev.office.com/officestore/docs/submit-add-ins-and-web-apps-to-the-office-store).
+Welcome to the Office Store documentation. Here you can find content related to publishing apps and add-ins to the Office Store.  For the best experience, we recommend that you view this content on [docs.microsoft.com](https://docs.microsoft.com/en-us/office/dev/store/submit-to-the-office-store).
 
 
 ## Give us your feedback
