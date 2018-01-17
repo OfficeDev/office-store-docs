@@ -1,5 +1,5 @@
 # AppSource documentation
-Welcome to the Microsoft AppSource (formerly Office Store) documentation. Here you can find content related to publishing apps and add-ins to the AppSource.  For the best experience, we recommend that you view this content on [docs.microsoft.com](https://docs.microsoft.com/en-us/office/dev/store/submit-to-the-office-store).
+Welcome to the Microsoft AppSource documentation. Here you can find content related to publishing apps and add-ins to AppSource. When you add your solution to AppSource, you also make it available in the Office Store within Office. For the best experience, we recommend that you view this content on [docs.microsoft.com](https://docs.microsoft.com/en-us/office/dev/store/submit-to-the-office-store).
 
 
 ## Give us your feedback
