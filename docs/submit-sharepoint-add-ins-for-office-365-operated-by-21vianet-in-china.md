@@ -1,7 +1,7 @@
 ---
 title: Submit SharePoint Add-ins for Office 365 operated by 21Vianet in China
 description: Submit an additional copy of your add-in if you wish to distribute your add-in to Chinese users of Office 365 operated by 21Vianet.
-ms.date: 12/04-2017
+ms.date: 1/11/2018
 ---
 
 # Submit SharePoint Add-ins for Office 365 operated by 21Vianet in China
@@ -31,10 +31,10 @@ Similarly, if you do not wish to distribute to China, you only need to submit on
  
 ## See also
 
-- [Use the Seller Dashboard to submit your solution to the Office Store](use-the-seller-dashboard-to-submit-to-the-office-store.md)
+- [Use the Seller Dashboard to submit your solution to AppSource](use-the-seller-dashboard-to-submit-to-the-office-store.md)
 - [Create or update client IDs and secrets in the Seller Dashboard](create-or-update-client-ids-and-secrets.md)
-- [Validation policies for apps and add-ins submitted to the Office Store](validation-policies.md)
-- [Submit your solutions to the Office Store](submit-to-the-office-store.md)
+- [Validation policies for apps and add-ins submitted to AppSource](validation-policies.md)
+- [Make your solutions available in AppSource and within Office](submit-to-the-office-store.md)
     
  
 

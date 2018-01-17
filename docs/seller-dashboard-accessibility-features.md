@@ -1,7 +1,7 @@
 ---
 title: Seller Dashboard accessibility features
 description: Accessibility features include viewing pages in high-contrast and using keyboard shortcuts.
-ms.date: 12/04-2017
+ms.date: 1/11/2018
 ---
 
 # Seller Dashboard accessibility features
@@ -105,7 +105,7 @@ If you use Internet Explorer, you can use the following keyboard shortcuts in th
 
 - [Disability Answer Desk](https://support.microsoft.com/en-us/accessibility/disability-answer-desk)
 - [Microsoft Accessibility website](https://www.microsoft.com/en-us/accessibility)
-- [Submit your solutions to the Office Store](submit-to-the-office-store.md)
+- [Make your solutions available in AppSource and within Office](submit-to-the-office-store.md)
     
  
 
