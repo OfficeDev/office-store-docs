@@ -47,7 +47,7 @@ Use Git to contribute substantive changes, such as:
 ### To Contribute using Git
 
 1. If you don't have a GitHub account, set one up at [GitHub](https://github.com/join). 
-2. After you have an account, install Git on your computer. Follow the steps in [Set up Git] tutorial.
+2. After you have an account, install Git on your computer. Follow the steps in the [Set up Git] tutorial.
 3. To submit a pull request using Git, follow the steps in [Use GitHub, Git, and this repository](#use-github-git-and-this-repository).
 4. You will be asked to sign the Contributor's License Agreement if you are:
 
