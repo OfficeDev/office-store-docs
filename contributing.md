@@ -52,7 +52,7 @@ Use Git to contribute substantive changes, such as:
 4. You will be asked to sign the Contributor's License Agreement if you are:
 
     * A member of the Microsoft Open Technologies group.
-    * A contributors who doesn't work for Microsoft.
+    * A contributor who doesn't work for Microsoft.
 
 As a community member, you must sign the Contribution License Agreement (CLA) before you can contribute large submissions to a project. You only need to complete and submit the documentation once. Carefully review the document. You may be required to have your employer sign the document.
 
