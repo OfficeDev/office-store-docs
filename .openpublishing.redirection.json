@@ -4,6 +4,11 @@
 		  "source_path": "docs/use-the-seller-dashboard-to-submit-apps-and-add-ins-to-the-office-store.md",
 		  "redirect_url": "https://docs.microsoft.com/en-us/office/dev/store/use-the-seller-dashboard-to-submit-to-the-office-store", 
 		  "redirect_document_id": false 
+	  },
+	  { 
+		  "source_path": "docs/decide-on-a-pricing-model.md",
+		  "redirect_url": "https://docs.microsoft.com/en-us/office/dev/store/monetize-addins-through-microsoft-commercial-marketplace", 
+		  "redirect_document_id": true 
 	  } 
 	] 
   }
