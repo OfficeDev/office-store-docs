@@ -7,6 +7,9 @@ localization_priority: Normal
 
 # Create your AppSource listing
 
+>[!IMPORTANT]
+>We're migrating management of Office solutions from Seller Dashboard to Partner Center. For details, see [Moving from Seller Dashboard to Partner Center](https://developer.microsoft.com/office/blogs/moving-management-of-solutions-from-seller-dashboard-to-partner-center/).
+
 You enter the AppSource listing information on the Details page in the Seller Dashboard. This is also the listing that appears in the in-product Store. Your AppSource listing is where you communicate to customers what your solution does and how it can provide value to them. The details are specified per language. You can add multiple languages and localize the following information for each language. 
 
 > [!NOTE]
