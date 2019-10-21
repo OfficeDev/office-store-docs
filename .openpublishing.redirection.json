@@ -9,7 +9,7 @@
 		  "source_path": "docs/decide-on-a-pricing-model.md",
 		  "redirect_url": "https://docs.microsoft.com/en-us/office/dev/store/monetize-addins-through-microsoft-commercial-marketplace", 
 		  "redirect_document_id": true 
-	  }
+	  },
 	  { 
 		"source_path": "docs/prepare-localized-apps-and-add-ins.md",
 		"redirect_url": "https://docs.microsoft.com/en-us/office/dev/store/prepare-localized-solutions", 
