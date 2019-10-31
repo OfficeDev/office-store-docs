@@ -15,7 +15,7 @@ Microsoft AppSource provides a convenient location for you to upload new Office 
 For information about how to submit Power BI custom visuals to AppSource, see [Publish custom visuals to AppSource and make them available within Office](/power-bi/developer/office-store).
 
 > [!NOTE]
-> Office VSTO add-ins and COM add-ins cannot be submitted to AppSource. For more about the distinction between types of Office add-ins, see [How are Office Add-ins different from COM and VSTO add-ins?](https://docs.microsoft.com/en-us/office/dev/add-ins/overview/office-add-ins#how-are-office-add-ins-different-from-com-and-vsto-add-ins).
+> Office VSTO add-ins and COM add-ins cannot be submitted to AppSource. For more about the distinction between types of Office add-ins, see [How are Office Add-ins different from COM and VSTO add-ins?](https://docs.microsoft.com/office/dev/add-ins/overview/office-add-ins#how-are-office-add-ins-different-from-com-and-vsto-add-ins).
 
 <a name="bk_approval"> </a>
 ## Approval process
@@ -68,7 +68,7 @@ After you submit your solution:
 
 If you make changes after your submission is approved, it must go through the approval process again.
 
-If you have general questions about policies, processes or validation requirements, you can engage with the AppSource Validation Team via [Stack Overflow](https://stackoverflow.com/search?q=office-store). Tag your question with "Office-Store". Please be aware that the Validation Team will not be able to discuss individual submission results over StackOverflow. 
+If you have general questions about policies, processes or validation requirements, you can engage with the AppSource validation team via [Stack Overflow](https://stackoverflow.com/search?q=office-store). Tag your question with "Office-Store". Please be aware that the validation team will not be able to discuss individual submission results on Stack Overflow. 
 
 ## See also
 
