@@ -13,7 +13,7 @@ After you submit your solution and it's approved for addition to AppSource, you 
 
 2. Download the **Get it from Microsoft AppSource** badge from the toolkit.
 
-    [!Screenshot of the Get it from Microsoft AppSource badge](images/MS_AppSource.png)
+    ![Screenshot of the Get it from Microsoft AppSource badge](images/MS_AppSource.png)
 
 3. Add the badge to the webpage for your solution. This makes it clear to your users that they can download your solution from AppSource.
 
