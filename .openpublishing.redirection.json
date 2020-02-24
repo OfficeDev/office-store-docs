@@ -16,47 +16,47 @@
       "redirect_document_id": true
     },
     {
-      "source_path": "docs/validation-policies",
+      "source_path": "docs/validation-policies.md",
       "redirect_url": "https://docs.microsoft.com/legal/marketplace/certification-policies",
       "redirect_document_id": false
     },
     {
-      "source_path": "docs/office-store-listing",
+      "source_path": "docs/office-store-listing.md",
       "redirect_url": "https://docs.microsoft.com/office/dev/store/appsource-listing",
       "redirect_document_id": false
     },
     {
-      "source_path": "docs/add-lead-management-details",
+      "source_path": "docs/add-lead-management-details.md",
       "redirect_url": "https://docs.microsoft.com/office/dev/store/add-setup-details",
       "redirect_document_id": false
     },
     {
-      "source_path": "docs/office-store-submission-faq",
+      "source_path": "docs/office-store-submission-faq.md",
       "redirect_url": "https://docs.microsoft.com/office/dev/store/appsource-submission-faq",
       "redirect_document_id": false
     },
     {
-      "source_path": "docs/prepare-localized-add-ins",
+      "source_path": "docs/prepare-localized-add-ins.md",
       "redirect_url": "https://docs.microsoft.com/office/dev/store/appsource-listing",
       "redirect_document_id": false
     },
     {
-      "source_path": "docs/seller-dashboard-accessibility-features",
+      "source_path": "docs/seller-dashboard-accessibility-features.md",
       "redirect_url": "https://docs.microsoft.com/office/dev/store/submit-to-the-office-store",
       "redirect_document_id": false
     },
     {
-      "source_path": "docs/submit-to-the-office-store",
+      "source_path": "docs/submit-to-the-office-store.md",
       "redirect_url": "https://docs.microsoft.com/office/dev/store/submit-to-appsource-via-partner-center",
       "redirect_document_id": false
     },
     {
-      "source_path": "docs/update-unpublish-and-view-metrics",
+      "source_path": "docs/update-unpublish-and-view-metrics.md",
       "redirect_url": "https://docs.microsoft.com/office/dev/store/use-partner-center-to-submit-to-appsource",
       "redirect_document_id": false
     },
     {
-      "source_path": "docs/use-the-seller-dashboard-to-submit-to-the-office-store",
+      "source_path": "docs/use-the-seller-dashboard-to-submit-to-the-office-store.md",
       "redirect_url": "https://docs.microsoft.com/office/dev/store/use-partner-center-to-submit-to-appsource",
       "redirect_document_id": false
     },
