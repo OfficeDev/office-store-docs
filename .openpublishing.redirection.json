@@ -16,6 +16,11 @@
       "redirect_document_id": true
     },
     {
+      "source_path": "docs/validation-policies",
+      "redirect_url": "/legal/marketplace/certification-policies",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "docs/index.md",
       "redirect_url": "/office/dev/store/submit-to-the-office-store",
       "redirect_document_id": false
