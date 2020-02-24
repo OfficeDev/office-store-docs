@@ -2,7 +2,7 @@
   "redirections": [
     {
       "source_path": "docs/use-the-seller-dashboard-to-submit-apps-and-add-ins-to-the-office-store.md",
-      "redirect_url": "https://docs.microsoft.com/office/dev/store/use-the-seller-dashboard-to-submit-to-the-office-store",
+      "redirect_url": "https://docs.microsoft.com/office/dev/store/use-partner-center-to-submit-to-appsource",
       "redirect_document_id": false
     },
     {
