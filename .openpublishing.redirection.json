@@ -17,7 +17,7 @@
     },
     {
       "source_path": "docs/validation-policies",
-      "redirect_url": "/legal/marketplace/certification-policies",
+      "redirect_url": "https://docs.microsoft.com/legal/marketplace/certification-policies",
       "redirect_document_id": false
     },
     {
