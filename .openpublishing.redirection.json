@@ -1,6 +1,31 @@
 {
   "redirections": [
     {
+      "source_path": "docs/add-in-license-schema.md",
+      "redirect_url": "https://docs.microsoft.com/office/dev/store/moving-from-paid-to-free-addins",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/implement-licensing-for-add-in-services.md",
+      "redirect_url": "https://docs.microsoft.com/office/dev/store/moving-from-paid-to-free-addins",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/add-license-checks-to-office-and-sharepoint-add-ins.md",
+      "redirect_url": "https://docs.microsoft.com/office/dev/store/moving-from-paid-to-free-addins",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/how-licenses-work.md",
+      "redirect_url": "https://docs.microsoft.com/office/dev/store/moving-from-paid-to-free-addins",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/license-your-add-ins.md",
+      "redirect_url": "https://docs.microsoft.com/office/dev/store/moving-from-paid-to-free-addins",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "docs/use-the-seller-dashboard-to-submit-apps-and-add-ins-to-the-office-store.md",
       "redirect_url": "https://docs.microsoft.com/office/dev/store/use-partner-center-to-submit-to-appsource",
       "redirect_document_id": false
