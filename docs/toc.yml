@@ -1,3 +1,6 @@
+- name: Office Add-ins validation documentation
+  href: index.yml
+
 - name: Submit your solutions to Microsoft AppSource
   items:
   - name: Overview
