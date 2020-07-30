@@ -8,7 +8,7 @@ metadata:
   title: Office Add-ins validation documentation # Required; page title displayed in search results. Include the brand. < 60 chars.
   description: Learn how to get your Office Add-ins in the hands of your customers. # Required; article description that is displayed in search results. < 160 chars.
   # Ask Linda on these ms.service ones, I don't know
-  services: service
+  services: o365-solutions
   ms.service: o365-solutions #Required; service per approved list. service slug assigned to your service by ACOM.
   # ms.subservice: subservice # Optional; Remove if no subservice is used.
   ms.topic: hub-page # Required
