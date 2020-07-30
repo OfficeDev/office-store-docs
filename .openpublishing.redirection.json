@@ -86,7 +86,7 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "docs/index.md",
+      "source_path": "docs/index.yml",
       "redirect_url": "/office/dev/store/submit-to-the-office-store",
       "redirect_document_id": false
     }

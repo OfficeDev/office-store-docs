@@ -24,16 +24,13 @@ highlightedContent:
     # Start card title with a verb
     # Card
     - title: Release through Microsoft App Stores
-      summary: Offer your solution through AppSource and stores within Office applications.
-      itemType: architecture
-      imgSrc: ./images/placeholder.png
+      itemType: concept
+
     # Card
     - title: Sideload your add-ins
-      summary: Sideloading allows you to do something.
-      itemType: architecture
-      imgSrc: ./images/placeholder.png
+      itemType: concept
+
     # Card
     - title: Enterprise deployment within your company. 
-      summary: Deploy your solution only within your own organization. 
-      itemType: architecture
-      imgSrc: ./images/placeholder.png
+      itemType: concept
+
