@@ -1,10 +1,4 @@
 ### YamlMime:Landing
-
-title: Office Add-ins validation documentation # < 60 chars
-summary: After building an Office Add-in, make your solutions available in Microsoft AppSource and within Office applications. # < 160 chars
-brand: office 
-
-metadata:
   title: Office Add-ins validation documentation # Required; page title displayed in search results. Include the brand. < 60 chars.
   description: Learn how to get your Office Add-ins in the hands of your customers. # Required; article description that is displayed in search results. < 160 chars.
   # Ask Linda on these ms.service ones, I don't know
