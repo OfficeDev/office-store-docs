@@ -25,12 +25,14 @@ highlightedContent:
     # Card
     - title: Release through Microsoft App Stores
       itemType: concept
+      url: define-office-solution-properties.md
 
     # Card
     - title: Sideload your add-ins
       itemType: concept
-
-    # Card
+      url: define-office-solution-properties.md
+    
+      # Card
     - title: Enterprise deployment within your company. 
       itemType: concept
-
+      url: define-office-solution-properties.md
