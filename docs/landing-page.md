@@ -8,7 +8,7 @@ localization_priority: Normal
 
 Explore the ways your Office Add-in can be distributed to customers, from the three options below.
 
-## [Release through Microsoft App Stores](../../second-landing-page.md)
+## [Release through Microsoft App Stores](second-landing-page.md)
 
 ## Sideload your add-ins
 

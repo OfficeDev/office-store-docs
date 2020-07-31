@@ -12,7 +12,7 @@ Before submitting your add-in, we recommend you watch this quick 5 min video on 
 
 From the Overview tab in the Microsoft Partner Center, select Create a new and select the Office add-in option.
 
-![tbd alt text](.images/new/step-select-type-of-addin.png)
+![tbd alt text](./images/new/step-select-type-of-addin.png)
  
 ## Step 2: Name your app
  
@@ -55,7 +55,7 @@ Within the language option, you'll find where you can fill in your add-in's stor
 
 Note it typically takes 4 to 6 weeks to complete an app submission and get it approved. On average, most add-ins require multiple submissions to pass our validation process, so follow our checklist carefully to reduce this time.  
 
-![tbd alt text](./image/new/step-8-set-availability-time-date.png)
+![tbd alt text](./images/new/step-8-set-availability-time-date.png)
 
 ## Step 9:  Make sure you add your critical testing instructions
 
@@ -68,7 +68,7 @@ If you checked the box stating you require additional purchases, make sure you p
 
 The following image shows the Notes for certification box where you must provide information.
 
-![tbd alt text](./image/new/step-9-critical-texting-instructions.png)
+![tbd alt text](./images/new/step-9-critical-texting-instructions.png)
 
 ## Step 10:  Use the following checklist to avoid the top 5 common errors that produce 80% of review rejections 
 
