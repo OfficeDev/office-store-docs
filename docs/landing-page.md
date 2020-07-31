@@ -8,6 +8,8 @@ localization_priority: Normal
 
 Explore the ways your Office Add-in can be distributed to customers, from the three options below.
 
-1. Release through Microsoft App Stores
-2. Sideload your add-ins
-3. Enterprise deployment within your company
+## [Release through Microsoft App Stores](../../second-landing-page.md)
+
+## Sideload your add-ins
+
+## Enterprise deployment within your company
