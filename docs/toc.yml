@@ -1,8 +1,7 @@
-- name: Office Add-ins validation documentation
-  href: index.yml
-
 - name: Submit your solutions to Microsoft AppSource
   items:
+  - name: Why publish in stores
+    href: why-publish-in-stores.md
   - name: Overview
     href: submit-to-appsource-via-partner-center.md
   - name: Open a developer account
