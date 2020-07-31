@@ -3,7 +3,7 @@
   items:
   - name: Sideload
   - name: Enterprise Deployment
-  - name: Microsoft App Stores
+  - name: Microsoft App Stores Overview
     href: second-landing-page.md
     items:
       - name: Why publish in stores
@@ -13,4 +13,4 @@
       - name: Publishing checklist
         href: checklist.md
       - name: Store submission Guide
-        href: add-in-submission-checklist.      
+        href: add-in-submission-checklist.md     
