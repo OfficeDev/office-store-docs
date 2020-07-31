@@ -12,16 +12,16 @@ Before submitting your Office Add-in for review, make sure it’s ready to be re
 
 This is a checklist to help you ensure your submission and review go smoothly.
 
-### Step 1: Determine your launch timeline
+### ✅ Step 1: Determine your launch timeline
 
 Plan ahead! Submitting your add-in for review can take up to 4 weeks from first submission until final approval.
 
 Make sure include time in your deployment schedule for our team to not only review your add-in, but for changes to be made to your add-in if needed.
 
->[NOTE!]
+>[!NOTE]
 > Your validation application may not be approved at first submission. This is common if this is your team’s first time submitting an add-in.
 
-### Step 2: Review all the Microsoft Office add-in policies
+### ✅ Step 2: Review all the Microsoft Office add-in policies
 
 Make sure you read through our policy document, especially any areas associated with Office products your add-in is targeting.
 
@@ -31,13 +31,13 @@ Make sure you read through our policy document, especially any areas associated 
 - Follow the specific policies about Office 365 or Office Add-ins here including Outlook, Word, Excel, and PowerPoint
 - Discover the specific policies about SharePoint Add-ins or SharePoint Framework (SPFx)
 
-### Step 3: Check that your manifest is compliant
+### ✅ Step 3: Check that your manifest is compliant
 
 There are several tools you can use to self-test your manifest file. These tools use the exact same package validation service we use in our review process. This will help ensure you pass our automated testing before you submit. 
 
 - Find the best tool for self-testing your manifest
 
-### Step 4: Decide what platforms you will  support?
+### ✅ Step 4: Decide what platforms you will  support?
 
 If you are supporting Apple iOS or Android, make sure you have your correct ID information associated with your Partner Center Profile.
 
@@ -47,7 +47,7 @@ For example, for an add-in available on iOS, you will need to have your Apple ID
 
 Note that Outlook is the only Office product that supports Android. Learn how to configure this in Partner Center before you submit here [LINK]
 
-### Step 5: If your add-in requires additional purchases from third party services or SaaS offers, provide testing information for these services
+### ✅ Step 5: If your add-in requires additional purchases from third party services or SaaS offers, provide testing information for these services
 
 Make sure you have any third party service information ready to include in your submission. In the submission process, you’ll first need to check the 
 
@@ -61,7 +61,7 @@ Next, you’ll need to provide license keys, sample accounts, test credentials a
 
 Your test plans and any testing accounts and instructions need to be included here
 
-### Step 6: Include critical information links with https:// addresses 
+### ✅ Step 6: Include critical information links with https:// addresses 
 
 The addresses for a support URL, a privacy policy URL, and an end user license agreement (EULA) URL  are required. Not including these links is one of the top reasons an add-in submission is rejected by our team. The following image shows the box that asks for the support information.
 
@@ -91,7 +91,7 @@ If your privacy policy is missing any of the above, it will fail validation and 
 #### Include an End User License Agreement
 Make sure you have an https:// URL for your EULA policy ready when you submit. If you don’t already have one, consult with your legal council about using this one from Microsoft. 
 
-### Step 7: Prepare your store listing with your team
+### ✅ Step 7: Prepare your store listing with your team
 
 Your final step in preparing for submission is to fill out a marketplace listing that will appear in the store to customers. This listing includes the copy in your listing, your branding, your add-in name and any screenshots and videos you want to use to promote it.
 
