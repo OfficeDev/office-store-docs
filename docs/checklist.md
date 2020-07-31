@@ -25,6 +25,8 @@ Make sure include time in your deployment schedule for our team to not only revi
 
 Make sure you read through our policy document, especially any areas associated with Office products your add-in is targeting.
 
+![tbd alt text](./images/new/step-2-name-addin.png)
+
 - Read the general policies here [LINK]
 - Follow the specific policies about Office 365 or Office Add-ins here including Outlook, Word, Excel, and PowerPoint
 - Discover the specific policies about SharePoint Add-ins or SharePoint Framework (SPFx)
@@ -41,6 +43,8 @@ If you are supporting Apple iOS or Android, make sure you have your correct ID i
 
 For example, for an add-in available on iOS, you will need to have your Apple ID in your Partner Center account settings page.
 
+![tbd alt text](./images/new/step-4-package-validation.png)
+
 Note that Outlook is the only Office product that supports Android. Learn how to configure this in Partner Center before you submit here [LINK]
 
 ### Step 5: If your add-in requires additional purchases from third party services or SaaS offers, provide testing information for these services
@@ -49,17 +53,19 @@ Make sure you have any third party service information ready to include in your 
 
 Additional purchases box, as shown in the following picture. 
 
-[IMAGE]
+![tbd alt text](./images/new/step-5-properties-support.png)
 
-Next, you’ll need to provide license keys, sample accounts, test credentials and any other critical instructions to our review team so that the process for getting the in-app purchase can be tested by our review teamThis information should go in the Notes for certification box, as shown in the following picture.
+Next, you’ll need to provide license keys, sample accounts, test credentials and any other critical instructions to our review team so that the process for getting the in-app purchase can be tested by our review team. This information should go in the Notes for certification box, as shown in the following picture.
 
-[IMAGE]
+[PIC?]
 
 Your test plans and any testing accounts and instructions need to be included here
 
 ### Step 6: Include critical information links with https:// addresses 
 
 The addresses for a support URL, a privacy policy URL, and an end user license agreement (EULA) URL  are required. Not including these links is one of the top reasons an add-in submission is rejected by our team. The following image shows the box that asks for the support information.
+
+![tbd alt text](./images/new/step-6-define-your-languages.png)
 
 #### Make sure you provide a link to your support page so that your users can reach you if they have a problem.
 
@@ -89,13 +95,18 @@ Make sure you have an https:// URL for your EULA policy ready when you submit. I
 
 Your final step in preparing for submission is to fill out a marketplace listing that will appear in the store to customers. This listing includes the copy in your listing, your branding, your add-in name and any screenshots and videos you want to use to promote it.
 
+![tbd alt text](./images/new/step-7-define-your-store-page.png)
+
 You'll need to provide the correct metadata indicating how you want your app to be listed in the store, including:
+
 - Your app name
 - A short description of your add-in and its value.
 - A long description of your add-in with HTML formatting. We recommend you use an HTML editor to create your descriptions ahead of time, so that you can preview how it looks before you paste it into the description fields.
 
 >[!NOTE]
 > There isn't a preview in submission, so it is important to make sure it looks correct before submitting. Otherwise, you may have to re-submit your app for review again to fix any formatting issues or typos. 
+
+![tbd alt text](./images/new/step-7-marketplace-listing.png)
 
 You'll also need to provide: 
 - Correct icons that are the right sizes.
