@@ -14,7 +14,7 @@ This is a checklist to help you ensure your submission and review go smoothly.
 
 ### ✅ Step 1: Determine your launch timeline
 
-Plan ahead! Submitting your add-in for review can take up to 4 weeks from first submission until final approval.
+![tbd alt text](./images/new/calendar.png) Plan ahead! Submitting your add-in for review can take up to 4 weeks from first submission until final approval.
 
 Make sure include time in your deployment schedule for our team to not only review your add-in, but for changes to be made to your add-in if needed.
 
@@ -24,8 +24,6 @@ Make sure include time in your deployment schedule for our team to not only revi
 ### ✅ Step 2: Review all the Microsoft Office add-in policies
 
 Make sure you read through our policy document, especially any areas associated with Office products your add-in is targeting.
-
-![tbd alt text](./images/new/step-2-name-addin.png)
 
 - Read the general policies here [LINK]
 - Follow the specific policies about Office 365 or Office Add-ins here including Outlook, Word, Excel, and PowerPoint
@@ -43,21 +41,15 @@ If you are supporting Apple iOS or Android, make sure you have your correct ID i
 
 For example, for an add-in available on iOS, you will need to have your Apple ID in your Partner Center account settings page.
 
-![tbd alt text](./images/new/step-4-package-validation.png)
-
 Note that Outlook is the only Office product that supports Android. Learn how to configure this in Partner Center before you submit here [LINK]
 
 ### ✅ Step 5: If your add-in requires additional purchases from third party services or SaaS offers, provide testing information for these services
 
-Make sure you have any third party service information ready to include in your submission. In the submission process, you’ll first need to check the 
+Make sure you have any third party service information ready to include in your submission. In the submission process, you’ll first need to check the additional purchases box, as shown in the following image. 
 
-Additional purchases box, as shown in the following picture. 
-
-![tbd alt text](./images/new/step-5-properties-support.png)
+![tbd alt text](./images/new/additional-purchases.png)
 
 Next, you’ll need to provide license keys, sample accounts, test credentials and any other critical instructions to our review team so that the process for getting the in-app purchase can be tested by our review team. This information should go in the Notes for certification box, as shown in the following picture.
-
-[PIC?]
 
 Your test plans and any testing accounts and instructions need to be included here
 
@@ -65,7 +57,7 @@ Your test plans and any testing accounts and instructions need to be included he
 
 The addresses for a support URL, a privacy policy URL, and an end user license agreement (EULA) URL  are required. Not including these links is one of the top reasons an add-in submission is rejected by our team. The following image shows the box that asks for the support information.
 
-![tbd alt text](./images/new/step-6-define-your-languages.png)
+![tbd alt text](./images/new/support-info.png)
 
 #### Make sure you provide a link to your support page so that your users can reach you if they have a problem.
 
@@ -94,8 +86,6 @@ Make sure you have an https:// URL for your EULA policy ready when you submit. I
 ### ✅ Step 7: Prepare your store listing with your team
 
 Your final step in preparing for submission is to fill out a marketplace listing that will appear in the store to customers. This listing includes the copy in your listing, your branding, your add-in name and any screenshots and videos you want to use to promote it.
-
-![tbd alt text](./images/new/step-7-define-your-store-page.png)
 
 You'll need to provide the correct metadata indicating how you want your app to be listed in the store, including:
 
