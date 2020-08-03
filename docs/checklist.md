@@ -25,15 +25,15 @@ Make sure include time in your deployment schedule for our team to not only revi
 
 Make sure you read through our policy document, especially any areas associated with Office products your add-in is targeting.
 
-- Read the general policies here [LINK]
-- Follow the specific policies about Office 365 or Office Add-ins here including Outlook, Word, Excel, and PowerPoint
-- Discover the specific policies about SharePoint Add-ins or SharePoint Framework (SPFx)
+- Read [the general policies here](https://docs.microsoft.com/legal/marketplace/certification-policies)
+- Follow the specific policies about [Office 365](https://docs.microsoft.com/en-us/legal/marketplace/certification-policies#1100-office-365) or [Office Add-ins](https://docs.microsoft.com/legal/marketplace/certification-policies#1120-office-add-ins) including Outlook, Word, Excel, and PowerPoint
+- Discover the specific policies about [SharePoint Add-ins](https://docs.microsoft.com/legal/marketplace/certification-policies#1160-sharepoint) or [SharePoint Framework (SPFx)](https://docs.microsoft.com/legal/marketplace/certification-policies#1170-sharepoint-framework-solutions)
 
 ### ✅ Step 3: Check that your manifest is compliant
 
 There are several tools you can use to self-test your manifest file. These tools use the exact same package validation service we use in our review process. This will help ensure you pass our automated testing before you submit. 
 
-- Find the best tool for self-testing your manifest
+- [Find the best tool for self-testing your manifest](https://docs.microsoft.com/office/dev/add-ins/testing/troubleshoot-manifest#:~:text=%20To%20use%20a%20command-line%20XML%20schema%20validation,and%20replace%20XML_FILE%20with%20the%20path...%20More%20)
 
 ### ✅ Step 4: Decide what platforms you will  support?
 
@@ -41,7 +41,7 @@ If you are supporting Apple iOS or Android, make sure you have your correct ID i
 
 For example, for an add-in available on iOS, you will need to have your Apple ID in your Partner Center account settings page.
 
-Note that Outlook is the only Office product that supports Android. Learn how to configure this in Partner Center before you submit here [LINK]
+Note that Outlook is the only Office product that supports Android. Learn how to configure this in Partner Center before you submit here.
 
 ### ✅ Step 5: If your add-in requires additional purchases from third party services or SaaS offers, provide testing information for these services
 
@@ -81,7 +81,7 @@ If your privacy policy is missing any of the above, it will fail validation and 
 > A Terms of Use policy is not considered a privacy policy. You must include a privacy policy that is separate from your Terms of Use policy. 
 
 #### Include an End User License Agreement
-Make sure you have an https:// URL for your EULA policy ready when you submit. If you don’t already have one, consult with your legal council about using this one from Microsoft. 
+Make sure you have an https:// URL for your EULA policy ready when you submit. If you don’t already have one and you have consulted with your legal council, you can use [this one from Microsoft](https://support.office.com/client/61994a3b-2c87-41c4-a88d-a6455efa362d?omkt=en-US). 
 
 ### ✅ Step 7: Prepare your store listing with your team
 
@@ -100,4 +100,4 @@ You'll need to provide the correct metadata indicating how you want your app to 
 
 You'll also need to provide: 
 - Correct icons that are the right sizes.
-- Any screenshots and video demos. Here are tips for how to do that effectively [LINK]. One screen shot is required.  
+- Any screenshots and video demos. Here [are tips](https://docs.microsoft.com/office/dev/store/craft-effective-appsource-store-images) for how to do that effectively [LINK]. One screen shot is required.  

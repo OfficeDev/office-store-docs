@@ -6,7 +6,7 @@ localization_priority: Normal
 
 # Store submission guide
 
-Before submitting your add-in, we recommend you watch this quick 5 min video on how to submit for review in Partner Center [LINK].
+Before submitting your add-in, we recommend you watch this quick 5 min video on how to submit for review in Partner Center.
 
 ## Step 1: Select the type of add-in you are submitting 
 
@@ -31,7 +31,7 @@ Remember to pre-test your package to prevent any unexpected failures in this ste
 
 ![tbd alt text](./images/new/step-4-package-validation.png)
 
-Get information on all the pre-testing manifest tools here [LINK].
+Get information on all [the pre-testing manifest tools](https://docs.microsoft.com/office/dev/add-ins/testing/troubleshoot-manifest#:~:text=%20To%20use%20a%20command-line%20XML%20schema%20validation,and%20replace%20XML_FILE%20with%20the%20path...%20More%20).
 
 ## Step 5: Define the metadata that will categorize your add-in in the store
 
