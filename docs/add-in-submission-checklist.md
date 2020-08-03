@@ -12,7 +12,7 @@ Before submitting your add-in, we recommend you watch this quick 5 min video on 
 
 From the Overview tab in the Microsoft Partner Center, select Create a new and select the Office add-in option.
 
-![tbd alt text](./images/new/step-select-type-of-addin.png)
+![tbd alt text](./images/new/step-select-type-of-add-in.png)
  
 ## Step 2: Name your app
  
@@ -68,18 +68,18 @@ If you checked the box stating you require additional purchases, make sure you p
 
 The following image shows the Notes for certification box where you must provide information.
 
-![tbd alt text](./images/new/step-9-critical-texting-instructions.png)
+![tbd alt text](./images/new/step-9-critical-testing-instructions.png)
 
 ## Step 10:  Use the following checklist to avoid the top 5 common errors that produce 80% of review rejections 
 
-- Did you include Terms of Use links? (link to prep checklist)
-- Did you include Privacy Policy links? (link to prep checklist)
-- Did you including Testing instructions for the Reviewer? (link to prep checklist)
-- Did you indicate Service or Account disclosures? (link to prep checklist)
-- Did you indicate any Additional Charge Disclosures for required paid services? (link to prep checklist) 
+- Did you include Terms of Use links?
+- Did you include Privacy Policy links?
+- Did you including Testing instructions for the Reviewer?
+- Did you indicate Service or Account disclosures?
+- Did you indicate any Additional Charge Disclosures for required paid services?
 
-If you answered yes to all of the above, hit the submit button on your app for review and approval.
+You can use our [pre-submission checklist](./checklist.md) if you need information on anything in that list. Once you have answered those questions for yourself, hit the submit button on your app for review and approval.
 
-Congratulations, you are done submitting.
+Congratulations, you are done submitting!
 
 You can expect a response within 3 to 4 business days from our reviewers if there are any issues related to your submission.

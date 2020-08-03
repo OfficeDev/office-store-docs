@@ -26,7 +26,7 @@ Make sure include time in your deployment schedule for our team to not only revi
 Make sure you read through our policy document, especially any areas associated with Office products your add-in is targeting.
 
 - Read [the general policies here](https://docs.microsoft.com/legal/marketplace/certification-policies)
-- Follow the specific policies about [Office 365](https://docs.microsoft.com/en-us/legal/marketplace/certification-policies#1100-office-365) or [Office Add-ins](https://docs.microsoft.com/legal/marketplace/certification-policies#1120-office-add-ins) including Outlook, Word, Excel, and PowerPoint
+- Follow the specific policies about [Office 365](https://docs.microsoft.com/legal/marketplace/certification-policies#1100-office-365) or [Office Add-ins](https://docs.microsoft.com/legal/marketplace/certification-policies#1120-office-add-ins) including Outlook, Word, Excel, and PowerPoint
 - Discover the specific policies about [SharePoint Add-ins](https://docs.microsoft.com/legal/marketplace/certification-policies#1160-sharepoint) or [SharePoint Framework (SPFx)](https://docs.microsoft.com/legal/marketplace/certification-policies#1170-sharepoint-framework-solutions)
 
 ### ✅ Step 3: Check that your manifest is compliant
@@ -81,7 +81,7 @@ If your privacy policy is missing any of the above, it will fail validation and 
 > A Terms of Use policy is not considered a privacy policy. You must include a privacy policy that is separate from your Terms of Use policy. 
 
 #### Include an End User License Agreement
-Make sure you have an https:// URL for your EULA policy ready when you submit. If you don’t already have one and you have consulted with your legal council, you can use [this one from Microsoft](https://support.office.com/client/61994a3b-2c87-41c4-a88d-a6455efa362d?omkt=en-US). 
+Make sure you have an https:// URL for your EULA policy ready when you submit. If you don’t already have one and you have consulted with your legal council, you can use [this one from Microsoft](https://support.office.com/client/61994a3b-2c87-41c4-a88d-a6455efa362d. 
 
 ### ✅ Step 7: Prepare your store listing with your team
 
