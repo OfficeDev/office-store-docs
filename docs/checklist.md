@@ -100,4 +100,4 @@ You'll need to provide the correct metadata indicating how you want your app to 
 
 You'll also need to provide: 
 - Correct icons that are the right sizes.
-- Any screenshots and video demos. Here [are tips](https://docs.microsoft.com/office/dev/store/craft-effective-appsource-store-images) for how to do that effectively [LINK]. One screen shot is required.  
+- Any screenshots and video demos. Here [are tips](https://docs.microsoft.com/office/dev/store/craft-effective-appsource-store-images) for how to do that effectively. One screen shot is required.  

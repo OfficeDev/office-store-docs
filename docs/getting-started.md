@@ -6,7 +6,7 @@ localization_priority: Normal
 
 # Get started
 
-5 Min Video Tutorial: Creating your Partner Center Profile and critical things to remember/do when you set up your PC profile. 
+5 Min Video Tutorial: Creating your Partner Center Profile and critical things to remember/do when you set up your PC profile.
 
 ## What is Partner Center and why is it important for publishing?
 
@@ -17,6 +17,6 @@ It is important because ...
 - Step 1: 
 - Step 2: 
 
-## Tips on how to create a PC ID and critical requirements (like you need to be associated with a company)
+## Tips on how to create a PC ID and critical requirements
 
-For more information about creating a Partner Center profile, see the official documentation. [LINK TBD]
+For more information about creating a Partner Center profile, see the official documentation.
