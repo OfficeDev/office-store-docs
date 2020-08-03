@@ -17,4 +17,7 @@ In addition to the Office store, Microsoft App Source is another distribution po
 
 ## How do I get into both stores?
 
-When you submit your app for validation and it is approved,  your add-in is  automatically added to the appropriate stores depending on the focus of your app or add-in.
+When you submit your app for validation and it is approved,  your add-in is  automatically added to both the Office and Microsoft App Source stores. 
+
+## Next steps
+Read our [getting started article](getting-started.md) to understand the Partner Center.

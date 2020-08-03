@@ -53,13 +53,13 @@ Next, you’ll need to provide license keys, sample accounts, test credentials a
 
 Your test plans and any testing accounts and instructions need to be included here
 
-### ✅ Step 6: Include critical information links with https:// addresses 
+### ✅ Step 6: Include critical information links with https:// URLs
 
-The addresses for a support URL, a privacy policy URL, and an end user license agreement (EULA) URL  are required. Not including these links is one of the top reasons an add-in submission is rejected by our team. The following image shows the box that asks for the support information.
+The addresses for a support URL, a privacy policy URL, and an end user license agreement (EULA) URL  are required. One of the top reasons an add-in submission fails our validation process is when these links are not included in submission. The following image shows the box that asks for the support information.
 
 ![tbd alt text](./images/new/support-info.png)
 
-#### Make sure you provide a link to your support page so that your users can reach you if they have a problem.
+#### Make sure you provide a link to your support page so that your users can reach you if they have a problem
 
 Provide a URL for so the customers who have issues with your add-in can contact your company for support.
 
@@ -81,23 +81,28 @@ If your privacy policy is missing any of the above, it will fail validation and 
 > A Terms of Use policy is not considered a privacy policy. You must include a privacy policy that is separate from your Terms of Use policy. 
 
 #### Include an End User License Agreement
-Make sure you have an https:// URL for your EULA policy ready when you submit. If you don’t already have one and you have consulted with your legal council, you can use [this one from Microsoft](https://support.office.com/client/61994a3b-2c87-41c4-a88d-a6455efa362d. 
+Make sure you have an https:// URL for your EULA policy ready when you submit. If you don’t already have one and you have consulted with your legal council, you can use [this one from Microsoft](https://support.office.com/client/61994a3b-2c87-41c4-a88d-a6455efa362d). 
 
 ### ✅ Step 7: Prepare your store listing with your team
 
-Your final step in preparing for submission is to fill out a marketplace listing that will appear in the store to customers. This listing includes the copy in your listing, your branding, your add-in name and any screenshots and videos you want to use to promote it.
+Your final step in preparing your submission is to fill out a marketplace listing that will appear in the store to customers. This listing includes the copy in your listing, your branding, your add-in name and any screenshots and videos you want to use to promote it.
 
 You'll need to provide the correct metadata indicating how you want your app to be listed in the store, including:
 
 - Your app name
 - A short description of your add-in and its value.
-- A long description of your add-in with HTML formatting. We recommend you use an HTML editor to create your descriptions ahead of time, so that you can preview how it looks before you paste it into the description fields.
+- A long description of your add-in with HTML formatting
 
->[!NOTE]
-> There isn't a preview in submission, so it is important to make sure it looks correct before submitting. Otherwise, you may have to re-submit your app for review again to fix any formatting issues or typos. 
+>[!TIP]
+> We recommend you use an HTML editor to create your descriptions ahead of time, so that you can preview how it looks before you paste it into the description fields. There isn't a preview in our submission process. Otherwise, you may have to re-submit your app for review again to fix any formatting issues or typos.
 
 ![tbd alt text](./images/new/step-7-marketplace-listing.png)
 
-You'll also need to provide: 
+You'll also need to provide:
+
 - Correct icons that are the right sizes.
-- Any screenshots and video demos. Here [are tips](https://docs.microsoft.com/office/dev/store/craft-effective-appsource-store-images) for how to do that effectively. One screen shot is required.  
+- Any screenshots and video demos. Here [are tips](https://docs.microsoft.com/office/dev/store/craft-effective-appsource-store-images) on doing this effectively. One screen shot is required.  
+
+## Next steps
+
+Read our [step-by-step submission guide](./add-in-submission-checklist.md) to learn how to submit your app for validation. 
