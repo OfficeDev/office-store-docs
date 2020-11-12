@@ -1,21 +1,19 @@
 ### YamlMime:Hub
 
-title: service documentation # < 60 chars
-summary: summary # < 160 chars
-# brand: aspnet | azure | dotnet | dynamics | m365 | ms-graph | office | power-bi | power-platform | sql | sql-server | vs | visual-studio | windows | xamarin
+title: Office Store documentation # < 60 chars
+summary: Documentation for the Office Store # < 160 chars
+# brand: office
 brand: brand
 
 metadata:
-  title: title # Required; page title displayed in search results. Include the brand. < 60 chars.
-  description: description # Required; article description that is displayed in search results. < 160 chars.
-  services: service
+  title: Office Store documentation # Required; page title displayed in search results. Include the brand. < 60 chars.
+  description: Learn about the Office Store # Required; article description that is displayed in search results. < 160 chars.
   ms.service: service #Required; service per approved list. service slug assigned to your service by ACOM.
   ms.subservice: subservice # Optional; Remove if no subservice is used.
   ms.topic: hub-page # Required
-  ms.collection: collection # Optional; Remove if no collection is used.
-  author: githubauthor #Required; your GitHub user alias, with correct capitalization.
-  ms.author: msauthor #Required; microsoft alias of author; optional team alias.
-  ms.date: 01/27/2020 #Required; mm/dd/yyyy format.
+  author: mscharlock #Required; your GitHub user alias, with correct capitalization.
+  ms.author: mischarl #Required; microsoft alias of author; optional team alias.
+  ms.date: 10/14/2020 #Required; mm/dd/yyyy format.
 
 # highlightedContent section (optional)
 # Maximum of 8 items
@@ -23,49 +21,22 @@ highlightedContent:
 # itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
   items:
     # Card
-    - title: cardtitle1
-      itemType: itemType
-      url: file1.md OR https://docs.microsoft.com/file1
+    - title: What is the Office Store?
+      itemType: overview
+      url: ./docs/submit-to-appsource-via-partner-center.md
     # Card
-    - title: cardtitle2
-      itemType: itemType
-      url: file2.md OR https://docs.microsoft.com/file2
+    - title: Validating and deploying an app
+      itemType: concept
+      url: https://docs.microsoft.com/file2
     # Card
-    - title: cardtitle3
-      itemType: itemType
+    - title: Sideloading your app
+      itemType: concept
       url: file3.md OR https://docs.microsoft.com/file3
-
-# productDirectory section (optional)
-productDirectory:
-  title: sectiontitle # < 60 chars (optional)
-  summary: sectionsummary # < 160 chars (optional)
-  items:
     # Card
-    - title: cardtitle1
-      # imageSrc should be square in ratio with no whitespace
-      imageSrc: ./media/index/image1.svg OR https://docs.microsoft.com/media/logos/image1.svg
-      links:
-        - url: file1a.md OR https://docs.microsoft.com/file1a
-          text: linktext1a
-        - url: file1b.md OR https://docs.microsoft.com/file1b
-          text: linktext1b
-    # Card
-    - title: cardtitle2
-      imageSrc: ./media/index/image2.svg OR https://docs.microsoft.com/media/logos/image2.svg
-      links:
-        - url: file2a.md OR https://docs.microsoft.com/file2a
-          text: linktext2a
-        - url: file2b.md OR https://docs.microsoft.com/file2b
-          text: linktext2b
-    # Card
-    - title: cardtitle3
-      imageSrc: ./media/index/image3.svg OR https://docs.microsoft.com/media/logos/image3.svg
-      links:
-        - url: file3a.md OR https://docs.microsoft.com/file3a
-          text: linktext3a
-        - url: file3b.md OR https://docs.microsoft.com/file3b
-          text: linktext3b
-
+    - title: Enterprise deployment
+      itemType: concept
+      url: file4.md OR https://docs.microsoft.com/file1
+      
 # conceptualContent section (optional)
 conceptualContent:
 # itemType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
