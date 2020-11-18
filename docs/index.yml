@@ -10,7 +10,7 @@ metadata:
   ms.topic: landing-page # Required
   author: mscharlock #Required; your GitHub user alias, with correct capitalization.
   ms.author: mischarl #Required; microsoft alias of author; optional team alias.
-  ms.date: 11/12/2020 #Required; mm/dd/yyyy format.
+  ms.date: 11/18/2020 #Required; mm/dd/yyyy format.
 
 # linkListType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
 
@@ -18,65 +18,47 @@ landingContent:
 # Cards and links should be based on top customer tasks or top subjects
 # Start card title with a verb
   # Card (optional)
-  - title: About [service]
+  - title: Learn about Microsoft 365 App Stores
     linkLists:
       - linkListType: overview
         links:
-          - text: What is [service]?
-            url: file1.md
-          - text: linktext2
-            url: file2.md
-      - linkListType: concept
-        links:
-          - text: linktext1
-            url: file1.md
-          - text: linktext2
-            url: file2.md
+          - text: Why publish in Microsoft 365 App Stores?
+            url: why-publish.md
+          - text: Submit to AppSource via Partner Center
+            url: submit-to-appsource-via-partner-center.md
 
   # Card (optional)
   - title: Get started
     linkLists:
-      - linkListType: concept
-        links:
-          - text: linktext1
-            url: file1.md
-          - text: linktext2
-            url: file2.md
       - linkListType: get-started
         links:
-          - text: linktext1
-            url: file1.md
-          - text: linktext2
-            url: file2.md
+          - text: Pre-submission checklist
+            url: checklist.md
+          - text: Store submission guide
+            url: add-in-submission-guide.md
 
   # Card
-  - title: cardtitle3
+  - title: List and market your app
+    linkLists:
+      - linkListType: learn
+        links:
+          - text: Create effective Store listings
+            url: create-effective-store-listings.md
+          - text: Optimize add-in placement and ranking
+            url: optimize-for-store-discovery.md
+      - linkListType: concept
+        links:
+          - text: Promote your app
+            url: promote-your-office-store-solution.md
+          - text: Monetize your app
+            url: monetize-addins-through-microsoft-commerical-marketplace.md
+
+# Card
+  - title: Analyze performance
     linkLists:
       - linkListType: concept
         links:
-          - text: linktext1
-            url: file1.md
-          - text: linktext2
-            url: file2.md
-      - linkListType: concept
-        links:
-          - text: linktext1
-            url: file1.md
-          - text: linktext2
-            url: file2.md
-
-  # Card
-  - title: cardtitle4
-    linkLists:
-      - linkListType: concept
-        links:
-          - text: linktext1
-            url: file1.md
-          - text: linktext2
-            url: file2.md
-      - linkListType: concept
-        links:
-          - text: linktext1
-            url: file1.md
-          - text: linktext2
-            url: file2.md
+          - text: Analyze your app's performance
+            url: view-acquisitions-report.md
+          - text: See app usage 
+            url: view-usage-report.md
