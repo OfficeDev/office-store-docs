@@ -26,7 +26,7 @@ landingContent:
             url: file1.md
           - text: linktext2
             url: file2.md
-      - linkListType: linkListType
+      - linkListType: concept
         links:
           - text: linktext1
             url: file1.md
@@ -58,7 +58,7 @@ landingContent:
             url: file1.md
           - text: linktext2
             url: file2.md
-      - linkListType: linkListType
+      - linkListType: concept
         links:
           - text: linktext1
             url: file1.md
@@ -74,7 +74,7 @@ landingContent:
             url: file1.md
           - text: linktext2
             url: file2.md
-      - linkListType: linkListType
+      - linkListType: concept
         links:
           - text: linktext1
             url: file1.md
