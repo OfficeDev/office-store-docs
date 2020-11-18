@@ -8,10 +8,10 @@
   items: 
     - name: Pre-submission checklist
       items: checklist.md
-      - name: Create a Partner Center account
-        href: open-a-developer-account.md
-      - name: Manage account settings and profile
-        href: manage-account-settings-and-profile.md
+        - name: Create a Partner Center account
+          href: open-a-developer-account.md
+        - name: Manage account settings and profile
+          href: manage-account-settings-and-profile.md
     - name: Store submission guide
       href: add-in-submission-guide.md
     - name: App validation policies
