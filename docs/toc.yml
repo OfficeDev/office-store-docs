@@ -2,7 +2,7 @@
   href: ./index.yml
 - name: About Microsoft 365 App Stores
   items: 
-  - name: Overview 
+  - name: Submit to appsource via partner center
     href: submit-to-appsource-via-partner-center.md
   - name: Why publish in Microsoft 365 App Stores? 
     href: 
