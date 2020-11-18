@@ -43,7 +43,7 @@ landingContent:
       - linkListType: learn
         links:
           - text: Create effective Store listings
-            url: create-effective-store-listings.md
+            url: create-effective-office-store-listings.md
           - text: Optimize add-in placement and ranking
             url: optimize-for-store-discovery.md
       - linkListType: concept
@@ -51,7 +51,7 @@ landingContent:
           - text: Promote your app
             url: promote-your-office-store-solution.md
           - text: Monetize your app
-            url: monetize-addins-through-microsoft-commerical-marketplace.md
+            url: monetize-addins-through-microsoft-commercial-marketplace.md
 
 # Card
   - title: Analyze performance
