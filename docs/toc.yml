@@ -7,15 +7,15 @@
 - name: Submission process
   items: 
     - name: Pre-submission checklist
-      items: 
+      items: checklist.md
       - name: Create a Partner Center account
-        href:
+        href: open-a-developer-account.md
       - name: Manage account settings and profile
-        href: 
+        href: manage-account-settings-and-profile.md
     - name: Store submission guide
-      href: 
+      href: add-in-submission-guide.md
     - name: App validation policies
-      href: 
+      href: https://docs.microsoft.com/legal/marketplace/certification-policies
     - name: Submission FAQ
       href: 
 - name: Managing names, GUIDs, and client IDs
@@ -52,5 +52,3 @@
   items: 
     - name: Submit SharePoint Add-ins for Office 365 operated by 21Vianet in China
       href: submit-sharepoint-add-ins-for-office-365-operated-by-21vianet-in-china.md
-- name: Certification policies
-  href: https://docs.microsoft.com/legal/marketplace/certification-policies
