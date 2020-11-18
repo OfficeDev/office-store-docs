@@ -16,4 +16,4 @@ localization_priority: Normal
 [Use our checklist](checklist.md) to help you determine if you are ready to submit your app or add-in for publishing.
 
 ## [📕 Submission guide](add-in-submission-guide.md)
-Once you've read the publishing checklist, read our [step-by-step submission guide]((add-in-submission-guide.md)).
+Once you've read the publishing checklist, read our [step-by-step submission guide](add-in-submission-guide.md).
