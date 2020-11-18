@@ -106,7 +106,7 @@ For Office Add-ins that you are submitting to Microsoft AppSource, you have to l
 
 The formatting requirements for this image differ depending on the add-in type. The following table lists the requirements for the icon image, by add-in type.
 
-||**Outlook add-ins**|**Task pane and content add-ins**|
+|**Outlook add-ins**|**Task pane and content add-ins**|
 |:-----|:-----|:-----|
 |Accepted formats|.bmp, .gif, .exif, .jpg, .png, and .tiff|.bmp, .gif, .exif, .jpg, .png, and .tiff|
 |Source location|The image specified must be secured with HTTPS.|The image specified does not have to be secured with HTTPS.|

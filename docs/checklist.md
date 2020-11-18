@@ -105,4 +105,4 @@ You'll also need to provide:
 
 ## Next steps
 
-Read our [step-by-step submission guide](./add-in-submission-checklist.md) to learn how to submit your app for validation. 
+Read our [step-by-step submission guide](./add-in-submission-guide.md) to learn how to submit your app for validation.
