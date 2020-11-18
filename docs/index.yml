@@ -36,13 +36,13 @@ landingContent:
   # Card (optional)
   - title: Get started
     linkLists:
-      - linkListType: linkListType
+      - linkListType: concept
         links:
           - text: linktext1
             url: file1.md
           - text: linktext2
             url: file2.md
-      - linkListType: linkListType
+      - linkListType: get-started
         links:
           - text: linktext1
             url: file1.md
@@ -52,7 +52,7 @@ landingContent:
   # Card
   - title: cardtitle3
     linkLists:
-      - linkListType: linkListType
+      - linkListType: concept
         links:
           - text: linktext1
             url: file1.md
@@ -68,7 +68,7 @@ landingContent:
   # Card
   - title: cardtitle4
     linkLists:
-      - linkListType: linkListType
+      - linkListType: concept
         links:
           - text: linktext1
             url: file1.md
