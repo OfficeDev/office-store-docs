@@ -1,5 +1,5 @@
 - name: Microsoft 365 App Stores documentation
-  href: index.yml
+  href: ./index.yml
 - name: About Microsoft 365 App Stores
   items: 
   - name: Overview 
