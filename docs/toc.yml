@@ -20,14 +20,14 @@
       href: 
 - name: Managing names, GUIDs, and client IDs
   items: 
-     - name: Manage names
-        href: manage-solution-names.md
-      - name: Reserve name
-        href: reserve-solution-name.md
-      - name: Create or update client IDs and secrets
-        href: create-or-update-client-ids-and-secrets.md
-      - name: Find Store product GUID
-        href: find-office-guid.md  
+    - name: Manage names
+      href: manage-solution-names.md
+    - name: Reserve name
+      href: reserve-solution-name.md
+    - name: Create or update client IDs and secrets
+      href: create-or-update-client-ids-and-secrets.md
+    - name: Find Store product GUID
+      href: find-office-guid.md  
 - name: Create and market your app
   items: 
     - name: Create effective Store listings
