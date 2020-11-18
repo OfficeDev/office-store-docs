@@ -7,17 +7,18 @@
 - name: Submission process
   items: 
     - name: Pre-submission checklist
-      items: checklist.md
-        - name: Create a Partner Center account
+      href: checklist.md
+      items:
+        - name: Open a developer account
           href: open-a-developer-account.md
         - name: Manage account settings and profile
           href: manage-account-settings-and-profile.md
-    - name: Store submission guide
-      href: add-in-submission-guide.md
-    - name: App validation policies
-      href: https://docs.microsoft.com/legal/marketplace/certification-policies
-    - name: Submission FAQ
-      href: 
+        - name: Store submission guide
+          href: add-in-submission-guide.md
+        - name: App validation policies
+          href: https://docs.microsoft.com/legal/marketplace/certification-policies
+        - name: Submission FAQ
+          href: 
 - name: Managing names, GUIDs, and client IDs
   items: 
     - name: Manage names
