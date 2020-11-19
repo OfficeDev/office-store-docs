@@ -1,12 +1,12 @@
 - name: Microsoft 365 App Stores documentation
   href: ./index.yml
-- name: About Microsoft 365 App Stores
+- name: Learn aout Microsoft 365 App Stores
   items: 
   - name: Submit to appsource via partner center
     href: submit-to-appsource-via-partner-center.md
   - name: Why publish in Microsoft 365 App Stores? 
     href: why-publish.md
-- name: Submission process
+- name: Submit your app
   items: 
     - name: Pre-submission checklist
       href: checklist.md
@@ -18,16 +18,12 @@
           href: manage-account-settings-and-profile.md
     - name: Store submission guide
       href: add-in-submission-guide.md
+    - name: Reserve app name
+      href: reserve-solution-name.md
+    - name: Manage app name
+      url: manage-solution-names.md
     - name: App validation policies
       href: https://docs.microsoft.com/legal/marketplace/certification-policies
-    - name: Submission FAQ
-      href: 
-- name: Managing names, GUIDs, and client IDs
-  items: 
-    - name: Manage names
-      href: manage-solution-names.md
-    - name: Reserve name
-      href: reserve-solution-name.md
     - name: Create or update client IDs and secrets
       href: create-or-update-client-ids-and-secrets.md
     - name: Find Store product GUID
@@ -46,13 +42,13 @@
       href: promote-your-office-store-solution.md
     - name: Monetize your add-in as an SaaS offer
       href: monetize-addins-through-microsoft-commercial-marketplace.md
-- name: Data and Analytics
+- name: Analyze your app 
   items:
     - name: Analyze performance
       href: view-acquisitions-report.md
     - name: Analyze usage
       href: view-usage-report.md
-- name: Resources
+- name: Discover resources
   items: 
     - name: Submit SharePoint Add-ins for Office 365 operated by 21Vianet in China
       href: submit-sharepoint-add-ins-for-office-365-operated-by-21vianet-in-china.md

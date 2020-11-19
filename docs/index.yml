@@ -10,7 +10,7 @@ metadata:
   ms.topic: landing-page # Required
   author: mscharlock #Required; your GitHub user alias, with correct capitalization.
   ms.author: mischarl #Required; microsoft alias of author; optional team alias.
-  ms.date: 11/18/2020 #Required; mm/dd/yyyy format.
+  ms.date: 11/19/2020 #Required; mm/dd/yyyy format.
 
 # linkListType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
 
@@ -22,13 +22,13 @@ landingContent:
     linkLists:
       - linkListType: overview
         links:
-          - text: Why publish in Microsoft 365 App Stores?
-            url: why-publish.md
           - text: Submit to AppSource via Partner Center
             url: submit-to-appsource-via-partner-center.md
+          - text: Why publish in Microsoft 365 App Stores?
+            url: why-publish.md
 
   # Card (optional)
-  - title: Get started
+  - title: Submit your app
     linkLists:
       - linkListType: get-started
         links:
@@ -36,25 +36,45 @@ landingContent:
             url: checklist.md
           - text: Store submission guide
             url: add-in-submission-guide.md
+          - text: App validation policies
+            url: https://docs.microsoft.com/legal/marketplace/certification-policies
+      - linkListType: learn
+        links:
+          - text: Open a partner center account
+            url: open-a-developer-account.md
+          - text: Manage account settings and promote-your-office-store-solution.md
+            urL: manage-account-settings-and-profile.md
+          - text: Manage app name
+            url: manage-solution-names.md
+          - text: Reserve app name
+            url: reserve-solution-name.md
+          - text: Create or update client IDs and secrets
+            url: create-or-update-client-ids-and-secrets.md
+          - text: Find Store product add-in-submission-guide.md
+            url: find-office-guid.md
 
   # Card
-  - title: List and market your app
+  - title: Create and market your app
     linkLists:
       - linkListType: learn
         links:
           - text: Create effective Store listings
             url: create-effective-office-store-listings.md
+          - text: Craft effective store images
+            url: craft-effective-appsource-store-images.md
           - text: Optimize add-in placement and ranking
             url: optimize-for-store-discovery.md
-      - linkListType: concept
+          - text: Prepare localized solutions
+            url: prepare-localized-solutions.md
+      - linkListType: learn
         links:
           - text: Promote your app
             url: promote-your-office-store-solution.md
-          - text: Monetize your app
+          - text: Monetize your add-in as an SaaS offer
             url: monetize-addins-through-microsoft-commercial-marketplace.md
 
 # Card
-  - title: Analyze performance
+  - title: Analyze your app
     linkLists:
       - linkListType: concept
         links:
