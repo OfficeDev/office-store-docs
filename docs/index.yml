@@ -38,6 +38,8 @@ landingContent:
             url: add-in-submission-guide.md
           - text: App validation policies
             url: https://docs.microsoft.com/legal/marketplace/certification-policies
+          - text: Submission process FAQ
+            url: appsource-submission-faq.md
       - linkListType: learn
         links:
           - text: Open a partner center account

@@ -1,6 +1,6 @@
 - name: Microsoft 365 App Stores documentation
   href: ./index.yml
-- name: Learn aout Microsoft 365 App Stores
+- name: Learn about Microsoft 365 App Stores
   items: 
   - name: Submit to appsource via partner center
     href: submit-to-appsource-via-partner-center.md
@@ -18,16 +18,20 @@
           href: manage-account-settings-and-profile.md
     - name: Store submission guide
       href: add-in-submission-guide.md
+    - name: App submission FAQ
+      href: appsource-submission-faq.md
     - name: Reserve app name
       href: reserve-solution-name.md
-    - name: Manage app name
-      url: manage-solution-names.md
     - name: App validation policies
       href: https://docs.microsoft.com/legal/marketplace/certification-policies
-    - name: Create or update client IDs and secrets
-      href: create-or-update-client-ids-and-secrets.md
-    - name: Find Store product GUID
-      href: find-office-guid.md  
+    - name: Manage your submitted app
+      items:
+        - name: Manage app name
+          url: manage-solution-names.md 
+        - name: Create or update client IDs and secrets
+          href: create-or-update-client-ids-and-secrets.md
+        - name: Find Store product GUID
+          href: find-office-guid.md  
 - name: Create and market your app
   items: 
     - name: Create effective Store listings
