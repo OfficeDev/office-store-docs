@@ -45,7 +45,7 @@ landingContent:
           - text: Open a partner center account
             url: open-a-developer-account.md
           - text: Manage account settings and promote-your-office-store-solution.md
-            urL: manage-account-settings-and-profile.md
+            url: manage-account-settings-and-profile.md
           - text: Manage app name
             url: manage-solution-names.md
           - text: Reserve app name

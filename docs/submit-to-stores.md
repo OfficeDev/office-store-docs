@@ -1,6 +1,6 @@
 ---
 title: Submit your app to Microsoft Stores
-description: tbd description
+description: Find out how to publish in Microsoft Stores with our checklist, guide, and other getting started resources.
 localization_priority: Normal
 ---
 

@@ -113,7 +113,7 @@ Submit your SaaS offer to Partner Center. After your SaaS offer is approved, it 
 
 ## Customer experience
 
-A customer discovers your SaaS service in Microsoft AppSource and purchases licenses, providing their payment details to Microsoft. The customer is then redirected to your website, where they finish setting up their account. The licenses are provisioned and the customer is billed. Your customer is then able to download your free add-in and sign in using the details provided. Your add-in checks the licensing database to verify that the cusotmer has a license. 
+A customer discovers your SaaS service in Microsoft AppSource and purchases licenses, providing their payment details to Microsoft. The customer is then redirected to your website, where they finish setting up their account. The licenses are provisioned and the customer is billed. Your customer is then able to download your free add-in and sign in using the details provided. Your add-in checks the licensing database to verify that the customer has a license.
 
 ## FAQs
 

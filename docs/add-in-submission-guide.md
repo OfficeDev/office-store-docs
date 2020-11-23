@@ -15,17 +15,15 @@ Before submitting your add-in, we recommend you watch this quick 5 min video on 
 
 From the Overview tab in the Microsoft Partner Center, select Create a new and select the Office add-in option.
 
-![tbd alt text](./images/new/step-select-type-of-add-in.png)
+![Overview tab selected in the Microsoft Partner Center menu](./images/new/step-select-type-of-add-in.png)
  
 ## Step 2: Name your app
  
 You’ll be prompted to enter a name for your add-in.
 
-![tbd alt text](./images/new/step-2-name-addin.png)
+![Create a new Office Add-in menu with name submission box](./images/new/step-2-name-addin.png)
 
-## Step 3: Tell us about your Product Setup 
-
-[TBD possible screenshot]
+## Step 3: Tell us about your Product Setup
 
 - **Will your add-in be listed in the Apple Store?** 
     If so, include your Apple ID.
@@ -39,7 +37,7 @@ You’ll be prompted to enter a name for your add-in.
 ## Step 4: Upload your manifest for package testing
 Remember to pre-test your package to prevent any unexpected failures in this step.
 
-![tbd alt text](./images/new/step-4-package-validation.png)
+![Packages list](./images/new/step-4-package-validation.png)
 
 Get information on all [the pre-testing manifest tools](https://docs.microsoft.com/office/dev/add-ins/testing/troubleshoot-manifest#:~:text=%20To%20use%20a%20command-line%20XML%20schema%20validation,and%20replace%20XML_FILE%20with%20the%20path...%20More%20).
 
@@ -47,13 +45,13 @@ Get information on all [the pre-testing manifest tools](https://docs.microsoft.c
 
 Don’t forget critical URL links to support policies, privacy policies, and End User License Agreements. For more information on what your policies should look like, see [our submission checklist](checklist.md###✅-Step-5-:-If-your-add-in-requires-additional-purchases-from-thir-party-services-or-SaaS-offers-,-provide-testing-information-for-these-services).
 
-![tbd alt text](./images/new/step-5-properties-support.png)
+![Properties step with support information highlighted](./images/new/step-5-properties-support.png)
 
 ## Step 6: Define your languages in Marketplace Listings
 
 This step can be confusing. Click on manage additional languages to begin. Then pick the language your add-in will be in to create a store entry.
 
-![tbd alt text](./images/new/step-6-define-your-languages.png)
+![Marketplace listings step with arrow pointing toward Manage Additional Languages and the Add languages step with an arrow toward English](./images/new/step-6-define-your-languages.png)
 
 ## Step 7: For each language your add-in is available in, create your detailed store listing
 
@@ -61,13 +59,13 @@ Your store listing should include copy, icons, videos, and screenshots. For deta
 
 Within the language option, you'll find where you can fill in your add-in's store listing information, such as your add-in description and images.
 
-![tbd alt text](./images/new/step-7-define-your-store-page.png)
+![English has been added to the listing](./images/new/step-7-define-your-store-page.png)
 
 ## Step 8: Decide on your availability date
 
 You can schedule when your add-in will be available. Note it typically takes 4 to 6 weeks to complete an app submission and get it approved. On average, most add-ins require multiple submissions to pass our validation process, so follow our checklist carefully to reduce this time.  
 
-![tbd alt text](./images/new/step-8-set-availability-time-date.png)
+![Make my product available in a future market is selected in the Availability step](./images/new/step-8-set-availability-time-date.png)
 
 ## Step 9:  Make sure you add your critical testing instructions
 
@@ -80,7 +78,7 @@ If you checked the box stating you require additional purchases, make sure you p
 
 The following image shows the Notes for certification box where you must provide information.
 
-![tbd alt text](./images/new/step-9-critical-testing-instructions.png)
+![Notes certification box](./images/new/step-9-critical-testing-instructions.png)
 
 ## Step 10:  Use the following checklist to avoid the top 5 common errors that produce 80% of review rejections
 
@@ -97,7 +95,3 @@ Once you have answered those questions for yourself, hit the submit button on yo
 ## Step 11: Congratulations, you are done submitting!
 
 You can expect a response within 3 to 4 business days from our reviewers if there are any issues related to your submission.
-
-## Next steps
-
-[TBD links]
