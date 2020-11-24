@@ -45,7 +45,6 @@ landingContent:
           - text: Submission process FAQ
             url: appsource-submission-faq.md
       - linkListType: how-to-guide
-        links:
           - text: Manage account settings and promote-your-office-store-solution.md
             url: manage-account-settings-and-profile.md
           - text: Manage app name
