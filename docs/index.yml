@@ -1,7 +1,7 @@
 ### YamlMime:Landing
 
 title: App validation documentation # < 60 chars
-summary: Learn how to validation your apps and submit them to stores. # < 160 chars
+summary: Learn how to validate your apps and submit them to Microsoft 365 app stores. # < 160 chars
 
 metadata:
   title: Office app validation # Required; page title displayed in search results. Include the brand. < 60 chars.
@@ -22,28 +22,30 @@ landingContent:
     linkLists:
       - linkListType: overview
         links:
+          - text: Why publish in Microsoft 365 App Stores?
+            url: why-publish.md          
           - text: Submit to AppSource via Partner Center
             url: submit-to-appsource-via-partner-center.md
-          - text: Why publish in Microsoft 365 App Stores?
-            url: why-publish.md
+
 
   # Card (optional)
   - title: Submit your app
     linkLists:
       - linkListType: get-started
         links:
-          - text: Pre-submission checklist
+          - text: Am I ready to publish checklist
             url: checklist.md
+          - text: How to open a partner center account
+            url: open-a-developer-account.md
           - text: Store submission guide
             url: add-in-submission-guide.md
+      - linkListType: reference
           - text: App validation policies
             url: https://docs.microsoft.com/legal/marketplace/certification-policies
           - text: Submission process FAQ
             url: appsource-submission-faq.md
-      - linkListType: learn
+      - linkListType: how-to-guide
         links:
-          - text: Open a partner center account
-            url: open-a-developer-account.md
           - text: Manage account settings and promote-your-office-store-solution.md
             url: manage-account-settings-and-profile.md
           - text: Manage app name
@@ -68,7 +70,7 @@ landingContent:
             url: optimize-for-store-discovery.md
           - text: Prepare localized solutions
             url: prepare-localized-solutions.md
-      - linkListType: learn
+      - linkListType: concept
         links:
           - text: Promote your app
             url: promote-your-office-store-solution.md
