@@ -29,7 +29,7 @@ landingContent:
 
 
   # Card (optional)
-  - title: Submit your app
+  - title: Validate your app
     linkLists:
       - linkListType: get-started
         links:
@@ -76,13 +76,3 @@ landingContent:
             url: promote-your-office-store-solution.md
           - text: Monetize your add-in as an SaaS offer
             url: monetize-addins-through-microsoft-commercial-marketplace.md
-
-# Card
-  - title: Analyze your app
-    linkLists:
-      - linkListType: concept
-        links:
-          - text: Analyze your app's performance
-            url: view-acquisitions-report.md
-          - text: See app usage 
-            url: view-usage-report.md

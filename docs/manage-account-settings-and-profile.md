@@ -39,7 +39,7 @@ In the Contact info section, you can see your **Publisher display name**, **Sell
 
 ### Financial details
 
-In the Financial details section, you can provide or update your financial information if you publish apps or services. 
+In the Financial details section, you can provide or update your financial information if you publish apps or services which require payment.
 
 If you only plan to list free offers, you don't need to set up a payout account or fill out any tax forms. If you change your mind later, and decide you do want to sell through Microsoft, you can set up your payout account and fill out tax forms at that time. 
 
