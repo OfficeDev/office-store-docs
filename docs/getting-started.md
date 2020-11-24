@@ -1,6 +1,6 @@
 ---
 title: Get started 
-description:  Get started with the validation and submission process to the Microsoft add-in stores. 
+description:  Get started with the validation and submission process to the Microsoft app stores. 
 localization_priority: Normal
 ---
 

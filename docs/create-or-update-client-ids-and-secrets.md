@@ -7,7 +7,7 @@ localization_priority: Priority
 
 # Create or update client IDs and secrets in Partner Center
 
-Create or delete client IDs and secrets, update or replace expiring client secrets, and associate them with your add-ins in Partner Center to enable OAuth in your SharePoint Add-ins.
+Create or delete client IDs and secrets, update or replace expiring client secrets, and associate them with your apps in Partner Center to enable OAuth in your SharePoint Add-ins.
 
 ### To update expiring client secrets in SharePoint Add-ins
 

@@ -16,9 +16,10 @@ If you have not already done so, you (or your organization's administrator) shou
 - Set up your company’s financial details, including tax exemptions if appropriate
 - Create user accounts for anyone who will use your business account in Partner Center
 
-To access your account settings in Partner Center, select the gear icon (near the upper right corner of the dashboard) and then select **Developer settings**. 
+To access your account settings in Partner Center, select the gear icon (near the upper right corner of the dashboard) and then select **Developer settings**.
 
 On the **Account settings** page, you can view your:
+
 - Account details, include account type and account status
 - Publisher IDs, including Seller ID, User ID, and Azure AD tenants
 - Contact info, including Publisher display name, Seller contact name, email, phone, and address
@@ -26,7 +27,7 @@ On the **Account settings** page, you can view your:
 
 ### Account details
 
-In the Account details section, you can see basic info, like your **Account type** (Company or Individual) and the **Account status** of your account. During the account verification process, these settings will display each step required, including email verification, employment verification, and business verification. You can also update your email here and resend the verification if needed. 
+In the Account details section, you can see basic info, like your **Account type** (Company or Individual) and the **Account status** of your account. During the account verification process, these settings will display each step required, including email verification, employment verification, and business verification. You can also update your email here and resend the verification if needed.
 
 ### Publisher IDs
 
@@ -38,7 +39,7 @@ In the Contact info section, you can see your **Publisher display name**, **Sell
 
 ### Financial details
 
-In the Financial details section, you can provide or update your financial information if you publish paid apps or services. 
+In the Financial details section, you can provide or update your financial information if you publish apps or services. 
 
 If you only plan to list free offers, you don't need to set up a payout account or fill out any tax forms. If you change your mind later, and decide you do want to sell through Microsoft, you can set up your payout account and fill out tax forms at that time. 
 

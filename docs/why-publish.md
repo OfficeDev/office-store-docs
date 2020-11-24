@@ -1,24 +1,24 @@
 ---
-title: Publish your add-in with Microsoft's app stores
-description: Publish your add-in using Microsoft's Office app store inside of Outlook, Excel, PowerPoint, and Sharepoint, or distribute it through AppSource. 
-ms.date: 7/31/2020
+title: Publish your app with Microsoft's app stores
+description: Publish your app using Microsoft's app store inside of Outlook, Excel, PowerPoint, and Sharepoint, or distribute it through AppSource. 
+ms.date: 11/24/2020
 localization_priority: Normal
 ---
 
-# Why publish your add-in with Microsoft’s app stores
+# Why publish your app with Microsoft’s app stores
 
-Your app can be distributed directly through the Office app store inside of Outlook, Excel, PowerPoint, and SharePoint, where millions of customers around the world are working everyday. Your app might be featured as an Editor’s Choice add-in, instantly reaching customers.
+Your app can be distributed directly through the Office app store inside of Outlook, Excel, PowerPoint, and SharePoint, where millions of customers around the world are working everyday. Your app might be featured as an Editor’s Choice app, instantly reaching customers.
 
 ![Apps being featured as the Editor's Choice](./images/new/why-office-store.png)
 
-In addition to the Office store, Microsoft App Source is another distribution point for your add-in. It is the official app store for Microsoft 365 apps and solutions.
+In addition to the Office store, Microsoft App Source is another distribution point for your app. It is the official app store for Microsoft 365 apps and solutions.
 
 ![Various apps available in AppSource](./images/new/appsource.png)
 
 ## How do I get into both stores?
 
-When you submit your app for validation and it is approved, your add-in is  automatically added to both the Office and Microsoft App Source stores.
+When you submit your app for validation and it is approved, your app is  automatically added to both the Office and Microsoft App Source stores.
 
 ## Next steps
 
-Read our [getting started article](getting-started.md) to understand the Partner Center.
+Read our [submission checklist](./checklist.md) to ensure you are ready to submit your app.

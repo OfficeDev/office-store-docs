@@ -9,9 +9,6 @@ localization_priority: Normal
 ## [✅ Why publish in Microsoft Stores?](why-publish.md)
 [Discover](why-publish.md) the value of distributing your apps directly through Office products and through App Source.
 
-## [🚩 Get started](getting-started.md)
-[Learn](getting-started.md) about the Partner Center, why it is important for publishing, and how to make a Partner Center ID.
-
 ## [📋 Publishing checklist](checklist.md)
 [Use our checklist](checklist.md) to help you determine if you are ready to submit your app or add-in for publishing.
 
