@@ -26,27 +26,54 @@ You’ll be prompted to enter a name for your app.
 ## Step 3: Tell us about your Product Setup
 
 - **Will your add-in be listed in the Apple Store?** 
-    If so, include your Apple ID.
+    If so, include your Apple ID. You'll see a warning that reminds you to enter this information on screen. 
 - **Does your add-in use Azure Active Directory or SSO (AAD/SSO)?** 
     If so, select the box that asks about this.
 - **Does your add-in require additional purchases?** 
-    If so, select the box that asks about this. 
+    If so, select the box that asks about this. You will see a warning that reminds you to fill in the notes box on the review and publish page in a later step with your test credentials so a tester can verify this.
 - **Do you want to connect with your lead management CRM system?** 
     If so, connect this system using the Connect link.
 
+The following screenshot shows the two yellow warning boxes appear, reminding you to fill in your Apple ID and about providing your test credentials in a separate step. 
+
+![Yellow warning boxes remind you to fill in your Apple ID and to provide your test credentials](./images/new/step-3-product-setup.png)
+
 ## Step 4: Upload your manifest for package testing
 
-Remember to pre-test your package to prevent any unexpected failures in this step.
+You will need to upload your manifest file to the grey box on this page, as shown in the following screenshot.
 
-![Packages list](./images/new/step-4-package-validation.png)
+![Your manifest needs to be updated in the shown grey box](./images/new/step-4-a-package-validation.png)
 
-Get information on all [the pre-testing manifest tools](https://docs.microsoft.com/office/dev/add-ins/testing/troubleshoot-manifest#:~:text=%20To%20use%20a%20command-line%20XML%20schema%20validation,and%20replace%20XML_FILE%20with%20the%20path...%20More%20).
+Remember to pre-test your package to prevent any unexpected failures in this step. Get information on all [the pre-testing manifest tools](https://docs.microsoft.com/office/dev/add-ins/testing/troubleshoot-manifest#:~:text=%20To%20use%20a%20command-line%20XML%20schema%20validation,and%20replace%20XML_FILE%20with%20the%20path...%20More%20).
+
+When your manifest is uploaded and is correct, you will receive a confirmation and see that manifest checks have passed, as shown in the following screenshot.
+
+![A completed manifest upload](./images/new/step-4-b-completed-upload.png)
 
 ## Step 5: Define the metadata that will categorize your app in the store
 
-Don’t forget critical URL links to support policies, privacy policies, and End User License Agreements. For more information on what your policies should look like, see [our submission checklist](./checklist.md).
+In this step, you will add secure URL links to your support policies, privacy policies, and End User License Agreements (EULA). For more information on what your policies should look like, see [our submission checklist](./checklist.md).
 
-![Properties step with support information highlighted](./images/new/step-5-properties-support.png)
+You can see in the following screenshots that there is a yellow warning to remind you that notes for certification are required.
+
+![Properties step with support information highlighted](./images/new/step-5-a-warning.png)
+
+The following image shows that to pass certification, your privacy policy must include:
+
+* Information on your policies regarding user's personal information.
+* Refer to the app or your service overall and NOT your website.
+* Your service description must include the name of app submitted.
+* A valid URL link that does not generate a 404 error.
+
+![Privacy policy specifications](./images/new/step-5-b-warning-closeup.png)
+
+You will also need to include a EULA. If you choose to use Microsoft's standard EULA agreement, you will need to confirm that you do not want to use your own agreement, as this cannot be reversed once your app is published. 
+
+![Warning stating if you use your own EULA you will need to confirm that you don't want to use your own agreement](./images/new/step-5-c-eula.png)
+
+If you don't specify a support document link, you will be prompted to enter one. 
+
+![Prompt asking you to insert a support document link](./images/new/step-5-d-support-warning.png)
 
 ## Step 6: Define your languages in Marketplace Listings
 
@@ -70,14 +97,18 @@ You can schedule when your app will be available. Note it typically takes 4 to 6
 
 ## Step 9:  Make sure you add your critical testing instructions
 
-This final critical step requires you include notes for certification, This is any critical instructions for the reviewer who will be testing your app, including test accounts, license keys and testing credentials.
+This final critical step requires you include notes for certification. Provide any instructions for the reviewer who will be testing your app, including test accounts, license keys, and testing credentials.
 
-If you checked the box stating you require additional purchases, make sure you provide any information such as license keys that a review might need to evaluate your app.
+If you indicated in a previous step that your app requires additional purchases, make sure you provide any information such as license keys that a review might need to evaluate your app.
+
+![Provide your testing credentials in the red box](./images/new/step-9-critical-test-requirements.png)
 
 >[!TIP]
 > Do not include an email address of a company employee who can provide log-in information. Our reviewers will **not be able to email you for log-in information**. Applications that do not list clear instructions in the certification notes will fail the submission process automatically.
 
 The following image shows the Notes for certification box where you must provide information.
+
+**TODO: Now called critical testing instructions, it turns red
 
 ![Notes certification box](./images/new/step-9-critical-testing-instructions.png)
 
