@@ -44,7 +44,7 @@ Get information on all [the pre-testing manifest tools](https://docs.microsoft.c
 
 ## Step 5: Define the metadata that will categorize your app in the store
 
-Don’t forget critical URL links to support policies, privacy policies, and End User License Agreements. For more information on what your policies should look like, see [our submission checklist](checklist.md###✅-Step-5-:-If-your-add-in-requires-additional-purchases-from-thir-party-services-or-SaaS-offers-,-provide-testing-information-for-these-services).
+Don’t forget critical URL links to support policies, privacy policies, and End User License Agreements. For more information on what your policies should look like, see [our submission checklist](checklist.md###Step-5-:-If-your-add-in-requires-additional-purchases-from-thir-party-services-or-SaaS-offers-,-provide-testing-information-for-these-services).
 
 ![Properties step with support information highlighted](./images/new/step-5-properties-support.png)
 
@@ -56,7 +56,7 @@ This step can be confusing. Click on manage additional languages to begin. Then 
 
 ## Step 7: For each language your app is available in, create your detailed store listing
 
-Your store listing should include copy, icons, videos, and screenshots. For details, see [our submission checklist](./checklist.md###-✅-Step-7-:-Prepare-your-store-listing-with-your-team).
+Your store listing should include copy, icons, videos, and screenshots. For details, see [our submission checklist](./checklist.md###Step-7-:-Prepare-your-store-listing-with-your-team).
 
 Within the language option, you'll find where you can fill in your app's store listing information, such as your app description and images.
 
