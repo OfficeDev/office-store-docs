@@ -6,20 +6,20 @@ localization_priority: Normal
 
 # Store submission guide
 
-Before submitting your add-in, we recommend you watch this quick 5 min video on how to submit for review in Partner Center.
+This article is a step-by-step guide that will detail how to submit your app to the Microsoft stores.
 
 >[!TIP]
->We recommend reading our [pre-submission checklist](./checklist.md) before reading this store submission guide. 
+>We recommend reading our [pre-submission checklist](./checklist.md) before reading this store submission guide, so you have all information ready to go for submission.
 
-## Step 1: Select the type of add-in you are submitting 
+## Step 1: Select the type of app you are submitting
 
-From the Overview tab in the Microsoft Partner Center, select Create a new and select the Office add-in option.
+For this guide, we will create an Office Add-in as our app. From the Overview tab in the Microsoft Partner Center, select **Create a new** and select the Office Add-in option.
 
 ![Overview tab selected in the Microsoft Partner Center menu](./images/new/step-select-type-of-add-in.png)
- 
+
 ## Step 2: Name your app
- 
-You’ll be prompted to enter a name for your add-in.
+
+You’ll be prompted to enter a name for your app.
 
 ![Create a new Office Add-in menu with name submission box](./images/new/step-2-name-addin.png)
 
@@ -35,13 +35,14 @@ You’ll be prompted to enter a name for your add-in.
     If so, connect this system using the Connect link.
 
 ## Step 4: Upload your manifest for package testing
+
 Remember to pre-test your package to prevent any unexpected failures in this step.
 
 ![Packages list](./images/new/step-4-package-validation.png)
 
 Get information on all [the pre-testing manifest tools](https://docs.microsoft.com/office/dev/add-ins/testing/troubleshoot-manifest#:~:text=%20To%20use%20a%20command-line%20XML%20schema%20validation,and%20replace%20XML_FILE%20with%20the%20path...%20More%20).
 
-## Step 5: Define the metadata that will categorize your add-in in the store
+## Step 5: Define the metadata that will categorize your app in the store
 
 Don’t forget critical URL links to support policies, privacy policies, and End User License Agreements. For more information on what your policies should look like, see [our submission checklist](checklist.md###✅-Step-5-:-If-your-add-in-requires-additional-purchases-from-thir-party-services-or-SaaS-offers-,-provide-testing-information-for-these-services).
 
@@ -49,29 +50,29 @@ Don’t forget critical URL links to support policies, privacy policies, and End
 
 ## Step 6: Define your languages in Marketplace Listings
 
-This step can be confusing. Click on manage additional languages to begin. Then pick the language your add-in will be in to create a store entry.
+This step can be confusing. Click on manage additional languages to begin. Then pick the language your app will be in to create a store entry.
 
 ![Marketplace listings step with arrow pointing toward Manage Additional Languages and the Add languages step with an arrow toward English](./images/new/step-6-define-your-languages.png)
 
-## Step 7: For each language your add-in is available in, create your detailed store listing
+## Step 7: For each language your app is available in, create your detailed store listing
 
 Your store listing should include copy, icons, videos, and screenshots. For details, see [our submission checklist](./checklist.md###-✅-Step-7-:-Prepare-your-store-listing-with-your-team).
 
-Within the language option, you'll find where you can fill in your add-in's store listing information, such as your add-in description and images.
+Within the language option, you'll find where you can fill in your app's store listing information, such as your app description and images.
 
 ![English has been added to the listing](./images/new/step-7-define-your-store-page.png)
 
 ## Step 8: Decide on your availability date
 
-You can schedule when your add-in will be available. Note it typically takes 4 to 6 weeks to complete an app submission and get it approved. On average, most add-ins require multiple submissions to pass our validation process, so follow our checklist carefully to reduce this time.  
+You can schedule when your app will be available. Note it typically takes 4 to 6 weeks to complete an app submission and get it approved. On average, most apps require multiple submissions to pass our validation process, so follow our checklist carefully to reduce this time.  
 
 ![Make my product available in a future market is selected in the Availability step](./images/new/step-8-set-availability-time-date.png)
 
 ## Step 9:  Make sure you add your critical testing instructions
 
-This final critical step requires you include notes for certification, This is any critical instructions for the reviewer who will be testing your add-in, including test accounts, license keys and testing credentials.
+This final critical step requires you include notes for certification, This is any critical instructions for the reviewer who will be testing your app, including test accounts, license keys and testing credentials.
 
-If you checked the box stating you require additional purchases, make sure you provide any information such as license keys that a review might need to evaluate your add-in.
+If you checked the box stating you require additional purchases, make sure you provide any information such as license keys that a review might need to evaluate your app.
 
 >[!TIP]
 > Do not include an email address of a company employee who can provide log-in information. Our reviewers will **not be able to email you for log-in information**. Applications that do not list clear instructions in the certification notes will fail the submission process automatically.

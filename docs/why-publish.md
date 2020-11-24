@@ -11,13 +11,14 @@ Your app can be distributed directly through the Office app store inside of Outl
 
 ![Apps being featured as the Editor's Choice](./images/new/why-office-store.png)
 
-In addition to the Office store, Microsoft App Source is another distribution point for your add-in. It is  an app store of Microsoft 365 apps and solutions.
+In addition to the Office store, Microsoft App Source is another distribution point for your add-in. It is the official app store for Microsoft 365 apps and solutions.
 
 ![Various apps available in AppSource](./images/new/appsource.png)
 
 ## How do I get into both stores?
 
-When you submit your app for validation and it is approved,  your add-in is  automatically added to both the Office and Microsoft App Source stores. 
+When you submit your app for validation and it is approved, your add-in is  automatically added to both the Office and Microsoft App Source stores.
 
 ## Next steps
+
 Read our [getting started article](getting-started.md) to understand the Partner Center.

@@ -1,6 +1,6 @@
 ---
 title: Add setup details for your Office solution
-description: On the Product setup page, you can indicate whether you want your solution to be available in the Apple Store (for some Office Add-ins), provide authorization information, indicate that additional service purchase is required, and add lead management details.
+description: Learn how to add details for Office Microsoft 365 solution or Office add-in. 
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ If you want your Word, Excel, Outlook, or PowerPoint add-in to be available in t
 
 ### Authorization
 
-If your add-in requires Azure Active Directory (Azure AD), you must check the box in the Authorization section and specify your target Office 365 plan. Your add-in requires Azure AD if it targets a specific national cloud, or if it uses single sign-on (SSO) or Microsoft Graph. 
+If your add-in requires Azure Active Directory (Azure AD), you must check the box in the Authorization section and specify your target Office 365 plan. Your add-in requires Azure AD if it targets a specific national cloud, or if it uses single sign-on (SSO) or Microsoft Graph.
 
 When you select the check box, you must select one of the following target plans:
 - Office 365 or Office 365 Education
@@ -41,7 +41,6 @@ If your product offers in-app purchases, select the **My product requires purcha
 ### Power BI certification
 Certified Power BI visuals are visuals in the Marketplace that meet certain specified code requirements that the Microsoft Power BI team has tested and approved. To request certification, select the Request Power BI certification check box.
 We recommend that you submit and publish your Power BI visual before you request certification, because the certification process can take time. When you request certification, be sure to provide all required certification information in the Notes for certification box on the Review and publish page.
-
 
 ## Lead management
 

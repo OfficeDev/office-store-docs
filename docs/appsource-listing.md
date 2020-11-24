@@ -1,6 +1,6 @@
 ---
 title: Create your Microsoft AppSource listing
-description: You enter the Microsoft AppSource listing information on the Marketplace listings page in Partner Center.
+description: Learn how to list your app within Microsoft AppSource using Partner Center.
 localization_priority: Normal
 ---
 
