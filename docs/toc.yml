@@ -2,13 +2,13 @@
   href: ./index.yml
 - name: Learn about Microsoft 365 App Stores
   items: 
+  - name: Why publish in Microsoft 365 App Stores? 
+  href: why-publish.md
   - name: Submit to appsource via partner center
     href: submit-to-appsource-via-partner-center.md
-  - name: Why publish in Microsoft 365 App Stores? 
-    href: why-publish.md
 - name: Validate your app
   items: 
-    - name: Pre-submission checklist
+    - name: Am I ready to publish checklist
       href: checklist.md
     - name: Create a Partner Center account
       items:
