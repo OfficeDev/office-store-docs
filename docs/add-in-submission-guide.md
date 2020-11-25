@@ -36,19 +36,19 @@ You’ll be prompted to enter a name for your app.
 
 The following screenshot shows the two yellow warning boxes appear, reminding you to fill in your Apple ID and about providing your test credentials in a separate step. 
 
-![Yellow warning boxes remind you to fill in your Apple ID and to provide your test credentials](./images/new/step-3-product-setup.png)
+![Yellow warning boxes remind you to fill in your Apple ID and to provide your test credentials](./images/new/step-3-yellow-warnings.jpg)
 
 ## Step 4: Upload your manifest for package testing
 
 You will need to upload your manifest file to the grey box on this page, as shown in the following screenshot.
 
-![Your manifest needs to be updated in the shown grey box](./images/new/step-4-a-package-validation.png)
+![Your manifest needs to be updated in the shown grey box](./images/new/step-4-packages-incomplete-upload.jpg)
 
 Remember to pre-test your package to prevent any unexpected failures in this step. Get information on all [the pre-testing manifest tools](https://docs.microsoft.com/office/dev/add-ins/testing/troubleshoot-manifest#:~:text=%20To%20use%20a%20command-line%20XML%20schema%20validation,and%20replace%20XML_FILE%20with%20the%20path...%20More%20).
 
 When your manifest is uploaded and is correct, you will receive a confirmation and see that manifest checks have passed, as shown in the following screenshot.
 
-![A completed manifest upload](./images/new/step-4-b-completed-upload.png)
+![A completed manifest upload](./images/new/step-4-packages-complete-upload.jpg)
 
 ## Step 5: Define the metadata that will categorize your app in the store
 
@@ -56,7 +56,7 @@ In this step, you will add secure URL links to your support policies, privacy po
 
 You can see in the following screenshots that there is a yellow warning to remind you that notes for certification are required.
 
-![Properties step with support information highlighted](./images/new/step-5-a-warning.png)
+![Properties step with support information highlighted](./images/new/step-5-a-validation.jpg)
 
 The following image shows that to pass certification, your privacy policy must include:
 
@@ -65,11 +65,11 @@ The following image shows that to pass certification, your privacy policy must i
 * Your service description must include the name of app submitted.
 * A valid URL link that does not generate a 404 error.
 
-![Privacy policy specifications](./images/new/step-5-b-warning-closeup.png)
+![Privacy policy specifications](./images/new/step-5-b-validation.jpg)
 
 You will also need to include a EULA. If you choose to use Microsoft's standard EULA agreement, you will need to confirm that you do not want to use your own agreement, as this cannot be reversed once your app is published. 
 
-![Warning stating if you use your own EULA you will need to confirm that you don't want to use your own agreement](./images/new/step-5-c-eula.png)
+![Warning stating if you use your own EULA you will need to confirm that you don't want to use your own agreement](./images/new/step-5-c-validation.jpg)
 
 If you don't specify a support document link, you will be prompted to enter one. 
 
@@ -101,16 +101,13 @@ This final critical step requires you include notes for certification. Provide a
 
 If you indicated in a previous step that your app requires additional purchases, make sure you provide any information such as license keys that a review might need to evaluate your app.
 
-![Provide your testing credentials in the red box](./images/new/step-9-critical-test-requirements.png)
-
->[!TIP]
-> Do not include an email address of a company employee who can provide log-in information. Our reviewers will **not be able to email you for log-in information**. Applications that do not list clear instructions in the certification notes will fail the submission process automatically.
 
 The following image shows the Notes for certification box where you must provide information.
 
-**TODO: Now called critical testing instructions, it turns red
+![Provide your testing credentials in the red box](./images/new/step-9-certification-notes.jpg)
 
-![Notes certification box](./images/new/step-9-critical-testing-instructions.png)
+>[!TIP]
+> Do not include an email address of a company employee who can provide log-in information. Our reviewers will **not be able to email you for log-in information**. Applications that do not list clear instructions in the certification notes will fail the submission process automatically.
 
 ## Step 10:  Use the following checklist to avoid the top 5 common errors that produce 80% of review rejections
 
