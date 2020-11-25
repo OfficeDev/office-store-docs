@@ -71,7 +71,7 @@ landingContent:
             url: optimize-for-store-discovery.md
           - text: Prepare localized solutions
             url: prepare-localized-solutions.md
-      - linkListType: concept
+      - linkListType: learn
         links:
           - text: Promote your app
             url: promote-your-office-store-solution.md
