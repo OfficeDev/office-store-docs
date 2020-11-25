@@ -4,7 +4,7 @@
   items: 
   - name: Why publish in Microsoft 365 App Stores? 
     href: why-publish.md
-  - name: Submit to appsource via partner center
+  - name: Submit to AppSource via Partner Center
     href: submit-to-appsource-via-partner-center.md
 - name: Validate your app
   items: 
