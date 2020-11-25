@@ -25,11 +25,11 @@ You’ll be prompted to enter a name for your app.
 
 ## Step 3: Tell us about your Product Setup
 
-- **Will your add-in be listed in the Apple Store?** 
+- **Will your app be listed in the Apple Store?** 
     If so, include your Apple ID. You'll see a warning that reminds you to enter this information on screen. 
-- **Does your add-in use Azure Active Directory or SSO (AAD/SSO)?** 
+- **Does your app use Azure Active Directory or SSO (AAD/SSO)?** 
     If so, select the box that asks about this.
-- **Does your add-in require additional purchases?** 
+- **Does your app require additional purchases?** 
     If so, select the box that asks about this. You will see a warning that reminds you to fill in the notes box on the review and publish page in a later step with your test credentials so a tester can verify this.
 - **Do you want to connect with your lead management CRM system?** 
     If so, connect this system using the Connect link.

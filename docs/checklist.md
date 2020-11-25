@@ -6,7 +6,7 @@ localization_priority: Normal
 
 # Am I ready to publish?
 
-Before submitting your Office Add-in for review, make sure it’s ready to be released to customers and that you’re making the most of your add-in description page that customers will see when they download your add-in
+Before submitting your Microsoft 365 app for review, make sure it’s ready to be released to customers and that you’re making the most of your app description page that customers will see when they download your app.
 
 ## Submission checklist
 
@@ -14,16 +14,16 @@ This is a checklist to help you ensure your submission and review go smoothly.
 
 ### ✅ Step 1: Determine your launch timeline
 
-![Calendar icon](./images/new/calendar.png) Plan ahead! Submitting your add-in for review can take up to 4 weeks from first submission until final approval.
+![Calendar icon](./images/new/calendar.png) Plan ahead! Submitting your app for review can take up to 4 weeks from first submission until final approval.
 
-Make sure include time in your deployment schedule for our team to not only review your add-in, but for changes to be made to your add-in if needed.
+Make sure include time in your deployment schedule for our team to not only review your app, but for changes to be made to your app if needed.
 
 >[!NOTE]
-> Your validation application may not be approved at first submission. This is common if this is your team’s first time submitting an add-in.
+> Your validation application may not be approved at first submission. This is common if this is your team’s first time submitting an app.
 
-### ✅ Step 2: Review all the Microsoft Office add-in policies
+### ✅ Step 2: Review all the Microsoft 365 app policies
 
-Make sure you read through our policy document, especially any areas associated with Office products your add-in is targeting.
+Make sure you read through our policy document, especially any areas associated with Office products your app is targeting.
 
 - Read [the general policies here](https://docs.microsoft.com/legal/marketplace/certification-policies)
 - Follow the specific policies about [Office 365](https://docs.microsoft.com/legal/marketplace/certification-policies#1100-office-365) or [Office Add-ins](https://docs.microsoft.com/legal/marketplace/certification-policies#1120-office-add-ins) including Outlook, Word, Excel, and PowerPoint
@@ -35,17 +35,17 @@ There are several tools you can use to self-test your manifest file. These tools
 
 - [Find the best tool for self-testing your manifest](https://docs.microsoft.com/office/dev/add-ins/testing/troubleshoot-manifest#:~:text=%20To%20use%20a%20command-line%20XML%20schema%20validation,and%20replace%20XML_FILE%20with%20the%20path...%20More%20)
 
-### ✅ Step 4: Decide what platforms you will  support?
+### ✅ Step 4: Decide what platforms you will support
 
 If you are supporting Apple iOS or Android, make sure you have your correct ID information associated with your Partner Center Profile.
 
-For example, for an add-in available on iOS, you will need to have your Apple ID in your Partner Center account settings page.
+For example, for an app available on iOS, you will need to have your Apple ID in your Partner Center account settings page.
 
 Note that Outlook is the only Office product that supports Android. Learn how to configure this in Partner Center before you submit here.
 
-### ✅ Step 5: If your add-in requires additional purchases from third party services or SaaS offers, provide testing information for these services
+### ✅ Step 5: If your app requires additional purchases from third party services or SaaS offers, provide testing information for these services
 
-Make sure you have any third party service information ready to include in your submission. In the submission process, you’ll first need to check the additional purchases box, as shown in the following image. 
+Make sure you have any third party service information ready to include in your submission. In the submission process, you’ll first need to check the additional purchases box, as shown in the following image.
 
 ![Additional purchases step with unchecked box indicating a service must be purchased or in-app purchases are offered](./images/new/additional-purchases.png)
 
@@ -55,43 +55,46 @@ Your test plans and any testing accounts and instructions need to be included he
 
 ### ✅ Step 6: Include critical information links with https:// URLs
 
-The addresses for a support URL, a privacy policy URL, and an end user license agreement (EULA) URL  are required. One of the top reasons an add-in submission fails our validation process is when these links are not included in submission. The following image shows the box that asks for the support information.
+The addresses for a support URL, a privacy policy URL, and an end user license agreement (EULA) URL  are required. One of the top reasons an app submission fails our validation process is when these links are not included in submission. The following image shows the box that asks for the support information.
 
 ![Support information fillable form fields](./images/new/support-info.png)
 
 #### Make sure you provide a link to your support page so that your users can reach you if they have a problem
 
-Provide a URL for so the customers who have issues with your add-in can contact your company for support.
+Provide a URL for so the customers who have issues with your app can contact your company for support.
 
 > [!NOTE]
 > This cannot be an email address, it must be an https:// URL.
 
-#### Ensure your company has a privacy policy that includes your add-in
-Provide the URL for the privacy policy for your add-in.
+#### Ensure your company has a privacy policy that includes your app
+
+Provide the URL for the privacy policy for your app.
 
 The privacy policy you link to must include:
+
 - Information on your policies regarding users’ personal information
-- A reference to the add-in OR your service overall, not only your website
-- A description of your service that includes the name of the add-in or app you are submitting
+- A reference to the app OR your service overall, not only your website
+- A description of your service that includes the name of the app you are submitting
 - A valid link that does not generate a 404 error
 
 If your privacy policy is missing any of the above, it will fail validation and require re-submission.
 
 >[!NOTE]
-> A Terms of Use policy is not considered a privacy policy. You must include a privacy policy that is separate from your Terms of Use policy. 
+> A Terms of Use policy is not considered a privacy policy. You must include a privacy policy that is separate from your Terms of Use policy.
 
 #### Include an End User License Agreement
+
 Make sure you have an https:// URL for your EULA policy ready when you submit. If you don’t already have one and you have consulted with your legal council, you can use [this one from Microsoft](https://support.office.com/client/61994a3b-2c87-41c4-a88d-a6455efa362d). 
 
 ### ✅ Step 7: Prepare your store listing with your team
 
-Your final step in preparing your submission is to fill out a marketplace listing that will appear in the store to customers. This listing includes the copy in your listing, your branding, your add-in name and any screenshots and videos you want to use to promote it.
+Your final step in preparing your submission is to fill out a marketplace listing that will appear in the store to customers. This listing includes the copy in your listing, your branding, your app name and any screenshots and videos you want to use to promote it.
 
 You'll need to provide the correct metadata indicating how you want your app to be listed in the store, including:
 
 - Your app name
-- A short description of your add-in and its value.
-- A long description of your add-in with HTML formatting
+- A short description of your app and its value.
+- A long description of your app with HTML formatting
 
 >[!TIP]
 > We recommend you use an HTML editor to create your descriptions ahead of time, so that you can preview how it looks before you paste it into the description fields. There isn't a preview in our submission process. Otherwise, you may have to re-submit your app for review again to fix any formatting issues or typos.
