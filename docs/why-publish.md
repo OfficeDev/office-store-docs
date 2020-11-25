@@ -7,11 +7,11 @@ localization_priority: Normal
 
 # Why publish your app with Microsoft’s app stores
 
-Your app can be distributed directly through the Office app store inside of Outlook, Excel, PowerPoint, and SharePoint, where millions of customers around the world are working everyday. Your app might be featured as an Editor’s Choice app, instantly reaching customers.
+Your app can be distributed directly through the Microsoft 365 app stores inside of Outlook, Excel, PowerPoint, Teams, and SharePoint, where millions of customers around the world are working everyday. Your app might be featured as an Editor’s Choice app, instantly reaching customers.
 
 ![Apps being featured as the Editor's Choice](./images/new/why-office-store.png)
 
-In addition to the Office store, Microsoft App Source is another distribution point for your app. It is the official app store for Microsoft 365 apps and solutions.
+In addition to the Microsoft 365 app store, Microsoft AppSource is another distribution point for your app. It is the official app store for Microsoft 365 apps and solutions.
 
 ![Various apps available in AppSource](./images/new/appsource.png)
 
