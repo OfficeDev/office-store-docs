@@ -6,7 +6,7 @@ localization_priority: Normal
 
 # Partner Center migration FAQ
 
-Microsoft is rolling out a modern management experience for the Office Store program in Partner Center. Office Add-ins (including Outlook add-ins), SharePoint add-ins, Teams apps, and Power BI visuals will be migrated to Partner Center. This article provides answers to frequently asked questions about the migration.
+Microsoft is rolling out a modern management experience for the Microsoft 365 App Store program in Partner Center. Microsoft 365 Add-ins (including Outlook add-ins), SharePoint add-ins, Teams apps, and Power BI visuals will be migrated to Partner Center. This article provides answers to frequently asked questions about the migration.
 
 ## Pre-migration FAQ
 
@@ -35,7 +35,7 @@ We will also move client IDs and associated secrets for which the secrets have n
 
 All other products will not be migrated. These are legacy products that are no longer supported in Seller Dashboard.
 
-### How can I get started as an Office solutions developer?
+### How can I get started as a Microsoft 365 app developer?
 
 To get started, [open a developer account](open-a-developer-account.md) in Partner Center. For details about how to build Office solutions, see the following:
 

@@ -1,5 +1,5 @@
 ---
-title: Monetize your Office 365 add-in or app through Microsoft Commercial Marketplace
+title: Monetize your Microsoft 365 add-in or app through Microsoft Commercial Marketplace
 description: This article describes how to sell your app through Microsoft by using Partner Center to submit your service for purchase as a SaaS offer. 
 localization_priority: Priority
 ---
@@ -10,7 +10,7 @@ This article describes how to sell your app through Microsoft by using Partner C
 
 When you're ready to begin selling your service in Commercial Marketplace, we recommend that you submit a single software-as-a-service (SaaS) application with connected apps, apps, and extensions. You'll be able to reach Microsoft customers through Microsoft AppSource, in addition to selling your service through partners and through the Microsoft sales team.
 
-We’re making it easier for customers to discover these Microsoft 365 app solutions, and deploy them across Microsoft Teams, Office, SharePoint, and other Microsoft applications.
+We’re making it easier for customers to discover these Microsoft 365 app solutions, and deploy them across Microsoft Teams, Word, Outlook, Excel, PowerPoint, and SharePoint.
 
 In this monetization model, your app is authenticated by your SaaS offering, which verifies its subscription status with the Microsoft SaaS service. Your responses from this service are used to update your user database. The following diagram shows this model.
 

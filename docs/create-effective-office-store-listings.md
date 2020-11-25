@@ -1,10 +1,10 @@
 ---
-title: Create effective listings in Microsoft AppSource and within Office
+title: Create effective listings in Microsoft AppSource and within Microsoft 365 app stores
 description: Make sure that the information you submit clearly communicates the benefits and functionality that your solution provides.
 localization_priority: Normal
 ---
 
-# Create effective listings in Microsoft AppSource and within Office
+# Create effective listings in Microsoft AppSource and Microsoft 365 app stores
 
 The information and images that you submit to Partner Center become the Microsoft AppSource and in-product listing for your solution. This information is the first thing prospective users see, and creates their first impression. Make sure that the information you submit—including your name, description, icons, and images—clearly communicates the benefits and functionality that your solution provides.
 

@@ -4,13 +4,13 @@ title: App validation documentation # < 60 chars
 summary: Learn how to validate your apps and submit them to Microsoft 365 app stores. # < 160 chars
 
 metadata:
-  title: Office app validation # Required; page title displayed in search results. Include the brand. < 60 chars.
+  title: Microsoft 365 app validation # Required; page title displayed in search results. Include the brand. < 60 chars.
   description: Submit your app to stores and learn how to go through the validation process. # Required; article description that is displayed in search results. < 160 chars.
   ms.service: service #Required; service per approved list. service slug assigned to your service by ACOM.
   ms.topic: landing-page # Required
   author: mscharlock #Required; your GitHub user alias, with correct capitalization.
   ms.author: mischarl #Required; microsoft alias of author; optional team alias.
-  ms.date: 11/19/2020 #Required; mm/dd/yyyy format.
+  ms.date: 11/25/2020 #Required; mm/dd/yyyy format.
 
 # linkListType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
 

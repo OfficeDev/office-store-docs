@@ -23,6 +23,3 @@ Use this checklist to optimize the end-to-end experience of your app.
 ## See also
 
 - [Make your solutions available in Microsoft AppSource and within Office](submit-to-appsource-via-partner-center.md)  
-    
- 
-
