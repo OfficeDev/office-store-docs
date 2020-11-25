@@ -1,6 +1,6 @@
 ---
 title: Publishing checklist 
-description:  Use this checklist to determine if your Office Add-in is ready to be published. 
+description:  Use this checklist to determine if your Microsoft 365 app is ready to be published. 
 localization_priority: Normal
 ---
 
@@ -27,11 +27,13 @@ Make sure you read through our policy document, especially any areas associated 
 
 - Read [the general policies here](https://docs.microsoft.com/legal/marketplace/certification-policies)
 - Follow the specific policies about [Office 365](https://docs.microsoft.com/legal/marketplace/certification-policies#1100-office-365) or [Office Add-ins](https://docs.microsoft.com/legal/marketplace/certification-policies#1120-office-add-ins) including Outlook, Word, Excel, and PowerPoint
+- Read the specific policies about [Teams apps](https://docs.microsoft.com/en-us/legal/marketplace/certification-policies#1140-teams)
+- Follow the specific policies for [Power BI visuals and template apps](https://docs.microsoft.com/en-us/legal/marketplace/certification-policies#1180-power-bi-visuals)
 - Discover the specific policies about [SharePoint Add-ins](https://docs.microsoft.com/legal/marketplace/certification-policies#1160-sharepoint) or [SharePoint Framework (SPFx)](https://docs.microsoft.com/legal/marketplace/certification-policies#1170-sharepoint-framework-solutions)
 
 ### ✅ Step 3: Check that your manifest is compliant
 
-There are several tools you can use to self-test your manifest file. These tools use the exact same package validation service we use in our review process. This will help ensure you pass our automated testing before you submit. 
+There are several tools you can use to self-test your manifest file. These tools use the exact same package validation service we use in our review process. This will help ensure you pass our automated testing before you submit.
 
 - [Find the best tool for self-testing your manifest](https://docs.microsoft.com/office/dev/add-ins/testing/troubleshoot-manifest#:~:text=%20To%20use%20a%20command-line%20XML%20schema%20validation,and%20replace%20XML_FILE%20with%20the%20path...%20More%20)
 
@@ -57,7 +59,7 @@ Your test plans and any testing accounts and instructions need to be included he
 
 The addresses for a support URL, a privacy policy URL, and an end user license agreement (EULA) URL  are required. One of the top reasons an app submission fails our validation process is when these links are not included in submission. The following image shows the box that asks for the support information.
 
-![Support information fillable form fields](./images/new/support-info.png)
+![Support information fillable form fields](./images/new/step-5-b-validation.jpg)
 
 #### Make sure you provide a link to your support page so that your users can reach you if they have a problem
 

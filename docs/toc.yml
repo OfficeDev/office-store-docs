@@ -3,20 +3,20 @@
 - name: Learn about Microsoft 365 App Stores
   items: 
   - name: Why publish in Microsoft 365 App Stores? 
-  href: why-publish.md
+    href: why-publish.md
   - name: Submit to appsource via partner center
     href: submit-to-appsource-via-partner-center.md
 - name: Validate your app
   items: 
     - name: Am I ready to publish checklist
       href: checklist.md
-    - name: Create a Partner Center account
+    - name: Create and manage a Partner Center account
       items:
         - name: Open an account
           href: open-a-developer-account.md
         - name: Manage account settings and profile
           href: manage-account-settings-and-profile.md
-    - name: Store submission guide
+    - name: Store step-by-step submission guide
       href: add-in-submission-guide.md
     - name: App submission FAQ
       href: appsource-submission-faq.md

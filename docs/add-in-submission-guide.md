@@ -1,12 +1,12 @@
 ---
-title: Store submission guide
-description:  Use this step by step guide to submitting your app to the Microsoft stores. 
+title: Store step-by-step submission guide
+description:  Use this step by step submission guide to submitting your app to the Microsoft stores. 
 localization_priority: Normal
 ---
 
-# Store submission guide
+# Store step-by-step submission guide
 
-This article is a step-by-step guide that will detail how to submit your app to the Microsoft stores.
+This article is a step-by-step guide that will detail how to submit your app to the Microsoft 365 Stores.
 
 >[!TIP]
 >We recommend reading our [pre-submission checklist](./checklist.md) before reading this store submission guide, so you have all information ready to go for submission.

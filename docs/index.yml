@@ -37,7 +37,7 @@ landingContent:
             url: checklist.md
           - text: How to open a partner center account
             url: open-a-developer-account.md
-          - text: Store submission guide
+          - text: Store step-by-step submission guide
             url: add-in-submission-guide.md
       - linkListType: reference
         links:
@@ -47,7 +47,7 @@ landingContent:
             url: appsource-submission-faq.md
       - linkListType: how-to-guide
         links:
-          - text: Manage account settings and promote-your-office-store-solution.md
+          - text: Manage account settings and promote your application
             url: manage-account-settings-and-profile.md
           - text: Manage app name
             url: manage-solution-names.md
@@ -55,7 +55,7 @@ landingContent:
             url: reserve-solution-name.md
           - text: Create or update client IDs and secrets
             url: create-or-update-client-ids-and-secrets.md
-          - text: Find Store product add-in-submission-guide.md
+          - text: Find Store product GUID
             url: find-office-guid.md
 
   # Card
