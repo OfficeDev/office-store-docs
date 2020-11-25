@@ -1,12 +1,12 @@
 ---
-title: Add setup details for your Office solution
-description: Learn how to add details for Office Microsoft 365 app or Office add-in. 
+title: Add setup details for your Microsoft 365 solution
+description: Learn how to add details for Microsoft 365 app or Office add-in. 
 localization_priority: Normal
 ---
 
-# Add setup details for your Office solution
+# Add setup details for your Microsoft 365 solution
 
-On the Product setup page, you can indicate whether you want your app to be available in the Apple Store (for some Office Add-ins), provide authorization information, indicate that additional service purchase is required, and add lead management details.
+On the Product setup page, you can indicate whether you want your app to be available in the Apple Store (for some Microsoft 365 Add-ins), provide authorization information, indicate that additional service purchase is required, and add lead management details.
 
 ## Setup details
 
