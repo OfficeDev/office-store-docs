@@ -27,8 +27,8 @@ Make sure you read through our policy document, especially any areas associated 
 
 - Read [the general policies here](https://docs.microsoft.com/legal/marketplace/certification-policies)
 - Follow the specific policies about [Office 365](https://docs.microsoft.com/legal/marketplace/certification-policies#1100-office-365) or [Office Add-ins](https://docs.microsoft.com/legal/marketplace/certification-policies#1120-office-add-ins) including Outlook, Word, Excel, and PowerPoint
-- Read the specific policies about [Teams apps](https://docs.microsoft.com/en-us/legal/marketplace/certification-policies#1140-teams)
-- Follow the specific policies for [Power BI visuals and template apps](https://docs.microsoft.com/en-us/legal/marketplace/certification-policies#1180-power-bi-visuals)
+- Read the specific policies about [Teams apps](https://docs.microsoft.com/legal/marketplace/certification-policies#1140-teams)
+- Follow the specific policies for [Power BI visuals and template apps](https://docs.microsoft.com/legal/marketplace/certification-policies#1180-power-bi-visuals)
 - Discover the specific policies about [SharePoint Add-ins](https://docs.microsoft.com/legal/marketplace/certification-policies#1160-sharepoint) or [SharePoint Framework (SPFx)](https://docs.microsoft.com/legal/marketplace/certification-policies#1170-sharepoint-framework-solutions)
 
 ### ✅ Step 3: Check that your manifest is compliant
