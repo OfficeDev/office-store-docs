@@ -27,7 +27,7 @@
     - name: Manage your submitted app
       items:
         - name: Manage app name
-          url: manage-solution-names.md 
+          href: manage-solution-names.md
         - name: Create or update client IDs and secrets
           href: create-or-update-client-ids-and-secrets.md
         - name: Find Store product GUID
