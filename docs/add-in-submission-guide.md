@@ -65,13 +65,15 @@ The following image shows that to pass certification, your privacy policy must i
 * Your service description must include the name of app submitted.
 * A valid URL link that does not generate a 404 error.
 
+Note that a Terms of Use Policy is not considered a privacy policy. You must include a privacy policy that is separate from your Terms of Use policy.
+
 ![Privacy policy specifications](./images/new/step-5-b-validation.jpg)
 
-You will also need to include a EULA. If you choose to use Microsoft's standard EULA agreement, you will need to confirm that you do not want to use your own agreement, as this cannot be reversed once your app is published. 
+You will also need to include a EULA. If you provide your own EULA, the link you provide must be an https:// address. If you choose to use Microsoft's standard EULA agreement, you will need to confirm that you do not want to use your own agreement, as this cannot be reversed once your app is published.
 
 ![Warning stating if you use your own EULA you will need to confirm that you don't want to use your own agreement](./images/new/step-5-c-validation.jpg)
 
-If you don't specify a support document link, you will be prompted to enter one. 
+If you don't specify a support document link, you will be prompted to enter one.
 
 ![Prompt asking you to insert a support document link](./images/new/step-5-d-support-warning.png)
 
@@ -100,7 +102,6 @@ You can schedule when your app will be available. Note it typically takes 4 to 6
 This final critical step requires you include notes for certification. Provide any instructions for the reviewer who will be testing your app, including test accounts, license keys, and testing credentials.
 
 If you indicated in a previous step that your app requires additional purchases, make sure you provide any information such as license keys that a review might need to evaluate your app.
-
 
 The following image shows the Notes for certification box where you must provide information.
 
