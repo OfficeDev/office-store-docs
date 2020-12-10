@@ -98,6 +98,3 @@ The following table lists the submission languages that Microsoft AppSource is a
 
 - [Submit your Office solution to Microsoft AppSource via Partner Center](use-partner-center-to-submit-to-appsource.md)    
 - [Certification policies](https://docs.microsoft.com/legal/marketplace/certification-policies) 
-
- 
-
