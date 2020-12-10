@@ -84,6 +84,11 @@
       "source_path": "docs/use-the-seller-dashboard-to-submit-to-the-office-store.md",
       "redirect_url": "https://docs.microsoft.com/office/dev/store/use-partner-center-to-submit-to-appsource",
       "redirect_document_id": false
+    }, 
+    {
+      "source_path": "docs/use-partner-center-to-submit-to-appsource.md",
+      "redirect_url": "https://docs.microsoft.com/office/dev/store/add-in-submission-guide",
+      "redirect_document_id": false
     }
   ]
 }
