@@ -13,7 +13,7 @@ This article is a step-by-step guide that will detail how to submit your app to 
 
 ## Step 1: Select the type of app you are submitting
 
-From the Overview tab in the Microsoft Partner Center, select **Create a new** and select the type of app you're submitting. (The example screenshots in this article show an Office add-in, but the steps apply to Teams apps, SharePoint solutions, etc.)
+From the Overview tab in the Microsoft Partner Center, select **Create a new** and select the type of app you're submitting. The example screenshots in this article show an Office Add-in, but the steps apply to Teams apps, SharePoint solutions, etc.
 
 ![Overview tab selected in the Microsoft Partner Center menu](./images/new/step-select-type-of-add-in.png)
 
