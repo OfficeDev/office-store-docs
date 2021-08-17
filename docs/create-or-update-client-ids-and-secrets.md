@@ -74,14 +74,14 @@ If your add-in is a service and it needs OAuth client IDs and client secrets, fo
 
 5. Choose how long your client secret will be valid for. The options are one, two, or three years. We recommend choosing one year, because this might be easier to track within your business processes than longer time periods. However, there is no security impact to choosing two or three years. When the client secret is expiring, you will need to update your add-in.
 
-6. Select the availability of the client secret. You can select one of the following:
+6. Select the availability of the client secret. Select one of the following:
     - **This client ID will be used for an app that is available worldwide.**
     - **This client ID will be used for an app that is available in China only.**
- 
+
 7. Choose **Create secret now**.
 
 8. On the **Get client secret** page, copy your client ID and client secret to a secure location so that you can refer to it later.
-    
+
     > [!IMPORTANT]
     > The client secret is associated with your client ID, but it will not be shown in Partner Center again. You should also record the start and end dates, so that you are aware of the client secret period of validity and its expiration date. If your client secret is close to expiring, you need to generate a new client secret and update your add-in. For more information, see [Update the client secret associated with your client ID](#bk_update).
 
@@ -201,7 +201,3 @@ You might want to delete a client ID in certain situations, for example:
 - [Submit your Office solution to Microsoft AppSource via Partner Center](use-partner-center-to-submit-to-appsource.md)
 - [Microsoft AppSource submission FAQ](appsource-submission-faq.md)
 - [Certification policies](https://docs.microsoft.com/legal/marketplace/certification-policies)
-
-    
- 
-
