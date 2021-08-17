@@ -1,5 +1,6 @@
-# AppSource documentation
-Welcome to the Microsoft AppSource documentation. Here you can find content related to publishing apps and add-ins to AppSource. When you add your solution to AppSource, you also make it available in the Office Store within Office. For the best experience, we recommend that you view this content on [docs.microsoft.com](https://docs.microsoft.com/office/dev/store/submit-to-appsource-via-partner-center).
+# Microsoft 365 App Stores documentation
+
+Welcome to the Microsoft 365 App Stores documentation. Here you can find content related to publishing apps and add-ins to AppSource. When you add your solution to AppSource, you also make it available in the Microsoft 365 app store within products like Teams, SharePoint, Word, Excel, PowerPoint, and Outlook. For the best experience, we recommend that you view this content on [docs.microsoft.com](https://docs.microsoft.com/office/dev/store/submit-to-appsource-via-partner-center).
 
 
 ## Give us your feedback
@@ -10,7 +11,8 @@ Your feedback is important to us.
 
 ## Copyright
 
-Copyright (c) 2018 Microsoft Corporation. All rights reserved.
+Copyright (c) 2020 Microsoft Corporation. All rights reserved.
 
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+

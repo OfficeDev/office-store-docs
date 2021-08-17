@@ -4,7 +4,7 @@ description: After you create a Partner Center account, manage your account and 
 localization_priority: Normal
 ---
 
-# Manage a Microsoft 365 App Store account in Partner Center 
+# Manage your Microsoft 365 App Store account in Partner Center 
 
 This article describes how to manage your offers and account using the [Partner Center dashboard](https://partner.microsoft.com/dashboard/overview). For help with creating an account, see [Open a developer account](open-a-developer-account.md).
 
@@ -19,11 +19,17 @@ If you have not already done so, you (or your organization's administrator) shou
 
 To access account settings, select the gear icon (near the upper right corner of the dashboard) and then **Account settings**.
 
-The folllowing sections are located under the **Developer** tab.
+The following sections are located under the **Developer** tab.
 
 ### Account details
 
 This section shows basic info like your **Account type** (Company or Individual) and the **Vetting status** of your account. During the account verification process, these settings will display each step required, including email verification, employment verification, and business verification.
+
+### Account details
+
+In the Account details section, you can see basic info, like your **Account type** (Company or Individual) and the **Account status** of your account. During the account verification process, these settings will display each step required, including email verification, employment verification, and business verification. You can also update your email here and resend the verification if needed.
+
+### Publisher IDs
 
 **Seller ID** and **User ID** are assigned by Microsoft to uniquely identify your developer account and can't be edited.
 
@@ -90,7 +96,7 @@ Payments will remain on hold until you toggle the slider **Off**. When you do so
 
 ## Multi-user account management
 
-Partner Center uses [Azure Active Directory](/azure/active-directory/fundamentals/active-directory-whatis) (Azure AD) for multi-user account access and management. Your organization's Azure AD is automatically associated with your Partner Center account as part of the enrollment process.
+Partner Center uses [Azure Active Directory](/azure/active-directory/fundamentals/active-directory-whatis) (Azure AD) for multi-user account access and management. Your organization's Azure AD is automatically associated with your Partner Center account as part of the enrollment process. 
 
 ## Manage users
 
@@ -115,7 +121,7 @@ To add users to your Partner Center account that already exist in your company's
 
 #### Create new users
 
-To create new user accounts, you must have an account with [**Global administrator**](/azure/active-directory/users-groups-roles/directory-assign-admin-roles) permissions.
+To create new user accounts, you must have an account with [**Global administrator**](/azure/active-directory/users-groups-roles/directory-assign-admin-roles) permissions. 
 
 1. On the **Account settings** page, on the **Users** tab, select **+ Add user**, then **Create new users**.
 1. Enter a first name, last name, and username for each new user. 
