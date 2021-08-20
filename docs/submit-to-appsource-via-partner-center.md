@@ -67,9 +67,9 @@ After you submit your solution:
 
 3. When the certification process is complete, you receive a message to let you know that either your submission is approved, or you need to make changes and resubmit it.
 
-#### [Workspaces view](#tab/Workspaces-view)
+### Check the status of your submission in Partner Center
 
-You can also follow these steps to check the status of your submission in Partner Center.
+#### [Workspaces view](#tab/Workspaces-view)
 
 1. Sign in to [Partner Center](https://partner.microsoft.com/dashboard/marketplace-offers/overview).
 1. In the **Offer alias** column, select the Office add-in or app you want.
