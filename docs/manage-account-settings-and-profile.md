@@ -12,7 +12,7 @@ After you [create a Partner Center account](./open-a-developer-account.md), you 
 
 ## Access your account settings
 
-If you have not already done so, you (or your organization's administrator) should access the [account settings](https://partner.microsoft.com/en-us/dashboard/account/v3/organization/legalinfo#mpn) for your Partner Center account in order to:
+If you have not already done so, you (or your organization's administrator) should access the [account settings](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn) for your Partner Center account in order to:
 - Check your company's account verification status
 - Confirm your Seller ID and contact information, including the company approver and seller contact
 - Set up your company’s financial details, including tax exemptions if appropriate
