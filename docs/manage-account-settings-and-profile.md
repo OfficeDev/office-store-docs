@@ -43,7 +43,7 @@ In the Contact info section, you can see your **Publisher display name**, **Sell
 
 In the Financial details section, you can provide or update your financial information if you publish apps or services which require payment.
 
-If you only plan to list free offers, you don't need to set up a payout account or fill out any tax forms. If you change your mind later, and decide you do want to sell through Microsoft, you can set up your payout account and fill out tax forms at that time. 
+If you only plan to list free offers, you don't need to set up a payout account or fill out any tax forms. If you change your mind later, and decide you do want to sell through Microsoft, you can set up your payout account and fill out tax forms at that time.
 
 #### Payout account
 
@@ -51,8 +51,8 @@ A payout account is the bank account to which proceeds are sent from your sales.
 
 To setup your payout account, you need to **associate your Microsoft account**:
 1. In **Account settings**, under the **Financial details** section, select **Associate your Microsoft account**. 
-1. When prompted, sign in with your Microsoft account. This account cannot already be associated with another Partner Center account. 
-1. To complete the setup of your payout account, sign out of Partner Center, then sign back in with your Microsoft account (instead of your work account). 
+1. When prompted, sign in with your Microsoft account. This account cannot already be associated with another Partner Center account.
+1. To complete the setup of your payout account, sign out of Partner Center, then sign back in with your Microsoft account (instead of your work account).
 
 Now that your Microsoft account is associated, to add a payout account, you will need to:
 - **Choose a payment method** - Bank account or PayPal
@@ -76,9 +76,11 @@ You can complete and submit your tax forms electronically in Partner Center; in 
 Different countries and regions have different tax requirements. The exact amount that you must pay in taxes depends on the countries and regions where you sell your offers. Microsoft remits sales and use tax on your behalf in some countries. These countries will be identified in the process of listing your offer. In other countries, depending on where you are registered, you may need to remit sales and use tax for your sales directly to the local taxing authority. In addition, the sales proceeds you receive may be taxable as income. We strongly encourage you to contact the relevant authority for your country or region that can best help you determine the right tax info for your Microsoft sales transactions.
 
 ##### Withholding rates
+
 The info you submit in your tax forms determines the appropriate tax withholding rate. The withholding rate applies only to sales that you make into the United States; sales made into non-US locations are not subject to withholding. The withholding rates vary, but for most developers registering outside the United States, the default rate is 30%. You have the option of reducing this rate if your country has agreed to an income tax treaty with the United States.
 
 ##### Tax treaty benefits
+
 If you are outside the United States, you may be able to take advantage of tax treaty benefits. These benefits vary from country to country, and may allow you to reduce the amount of taxes that Microsoft withholds. You can claim tax treaty benefits by completing Part II of the W-8BEN form. We recommend that you communicate with the appropriate resources in your country or region to determine whether these benefits apply to you.
 
 #### Payout hold status
@@ -110,7 +112,8 @@ Your account must have [Manager-level](#define-user-roles-and-permissions) permi
 
 To add users to your Partner Center account that already exist in your company's work account (Azure AD tenant):
 
-1. Go to **User management** (under **Account settings**). Then on the **Users** tab, select **+ Add user**.
+1. In the menu bar, select **Settings** (gear icon) > **Account settings**.
+1. Select **User management**, and then on the **Users** tab, select **+ Add user**.
 1. Select one or more users from the list that appears. You can use the search box to search for specific users.
 *If you select more than one user to add to your Partner Center account, you must assign them the same role or set of custom permissions. To add multiple users with different roles/permissions, repeat these steps for each role or set of custom permissions.
 1. When you're finished choosing users, click **Add selected**.
@@ -121,8 +124,9 @@ To add users to your Partner Center account that already exist in your company's
 
 To create new user accounts, you must have an account with [**Global administrator**](/azure/active-directory/users-groups-roles/directory-assign-admin-roles) permissions.
 
-1. Go to **User management** (under **Account settings**). Then on the **Users** tab, select **Create new user**.
-1. Enter a first name, last name, and username for each new user. 
+1. In the menu bar, select **Settings** (gear icon) > **Account settings**.
+1. Select **User management**, and then on the **Users** tab, select **Create new user**.
+1. Enter a first name, last name, and username for each new user.
 1. If you want the new user to have a global administrator account in your organization's directory, check the box labeled **Make this user a Global administrator in your Azure AD, with full control over all directory resources**. This will give the user full access to all administrative features in your company's Azure AD. They'll be able to add and manage users in your organization's work account (Azure AD tenant), though not in Partner Center, unless you grant the account the appropriate role/permissions. 
 1. If you checked the box to **Make this user a Global administrator**, you'll need to provide a **Password recovery email** for the user to recover their password if necessary.
 1. In the **Group membership** section, select any groups to which you want the new user to belong.
@@ -135,7 +139,8 @@ Creating a new user in Partner Center will also create an account for that user 
 
 To invite users that are not currently a part of your company work account (Azure AD tenant) via email, you must have an account with [Global administrator](/azure/active-directory/users-groups-roles/directory-assign-admin-roles) permissions. 
 
-1. Go to **User management** (under **Account settings**). Then on the **Users** tab, select **Invite users**.
+1. In the menu bar, select **Settings** (gear icon) > **Account settings**.
+1. Select **User management**, and then on the **Users** tab, select **Invite users**.
 1. Enter one or more email addresses (up to ten), separated by commas or semicolons.
 1. In the list that appears, specify the role(s) or customized permissions for the user.
 1. Select **Add**.
