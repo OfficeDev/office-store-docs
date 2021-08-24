@@ -71,6 +71,8 @@ After you submit your solution:
 
 #### [Workspaces view](#tab/Workspaces-view)
 
+You can also follow these steps to check the status of your submission in Partner Center.
+
 1. Sign in to [Partner Center](https://partner.microsoft.com/dashboard/marketplace-offers/overview).
 1. In the **Offer alias** column, select the Office add-in or app you want.
 1. On the **Product overview** page, the status of your submission will be one of the following:
@@ -92,7 +94,7 @@ If you have general questions about policies, processes, or validation requireme
 You can also follow these steps to check the status of your submission in Partner Center.
 
 1. Sign in to [Partner Center](https://partner.microsoft.com/dashboard/office/overview).
-1. In the **Offer alias** column, select the Office add-in or app you want.
+1. In the **Display name** column, select the Office add-in or app you want.
 1. On the **Product overview** page, the status of your submission will be one of the following:
     - Pre-processing
     - Certification
