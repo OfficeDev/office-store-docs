@@ -1,6 +1,6 @@
 ---
 title: Make your solutions available in Microsoft AppSource and within Office 
-description: Upload Office Add-ins and SharePoint Add-ins to Microsoft AppSource via the Partner Center.
+description: Upload Office Add-ins and SharePoint Add-ins to Microsoft AppSource via Partner Center.
 localization_priority: Priority
 ms.author: mingshen
 ms.date: 09/13/2021
@@ -8,7 +8,7 @@ ms.date: 09/13/2021
 
 # Make your solutions available in Microsoft AppSource and within Office
 
-Microsoft AppSource provides a convenient location for you to upload new Office and SharePoint Add-ins, Microsoft Teams apps, and Power BI visuals that provide solutions for both consumers and businesses. When you add your app solution to Microsoft AppSource, you also make it available in the in-product experience within Office. To include your solution in Microsoft AppSource and within Office, you submit it to [Partner Center](https://partner.microsoft.com/dashboard/marketplace-offers/overview). You need to create an individual or company account and, if applicable, add payout information. For details, see:
+Microsoft AppSource provides a convenient location for you to upload new Office and SharePoint Add-ins, Microsoft Teams apps, and Power BI visuals that provide solutions for both consumers and businesses. When you add your app solution to Microsoft AppSource, you also make it available in the in-product experience within Office. To include your solution in Microsoft AppSource and within Office, you submit it to [Partner Center](https://partner.microsoft.com/dashboard/marketplace-offers/overview). You need to create an individual or company account and, if applicable, add payout information. For details, see the following:
 
 - [Create a developer account](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office). After you create your account, it goes through an approval process. 
   - For details about the registration process, see [Opening a developer account](open-a-developer-account.md).
