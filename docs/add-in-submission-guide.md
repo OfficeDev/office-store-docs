@@ -3,7 +3,7 @@ title: Microsoft 365 Store step-by-step submission guide
 description:  Use this step-by-step submission guide to submit your app to the Microsoft stores. 
 localization_priority: Normal
 ms.author: mingshen
-ms.date: 8/24/2021
+ms.date: 9/13/2021
 ---
 
 # Store step-by-step submission guide
@@ -58,11 +58,11 @@ You’ll be prompted to enter a name for your app.
 
 The following screenshot shows two yellow warning boxes that remind you to fill in your Apple ID and provide test credentials.
 
-#### [Workspaces view](#tab/Workspaces-view) 
+#### [Workspaces view](#tab/Workspaces-view)
 
 :::image type="content" source="./images/new/step-3-yellow-warnings-workspaces.png" alt-text="Illustrates the Product setup page.":::
 
-#### [Classic view](#tab/classic-view) 
+#### [Classic view](#tab/classic-view)
 
 ![Yellow warning boxes remind you to fill in your Apple ID and to provide your test credentials.](./images/new/step-3-yellow-warnings.png)
 
@@ -102,7 +102,7 @@ In this step, you will add secure URL links to your support policies, privacy po
 
 The yellow warning seen in the following screenshots remind you that notes for certification are required.
 
-#### [Workspaces view](#tab/Workspaces-view) 
+#### [Workspaces view](#tab/Workspaces-view)
 
 ![Properties step with support information highlighted](./images/new/step-5-a-validation-workspaces.png)
 
