@@ -64,7 +64,7 @@ The following screenshot shows two yellow warning boxes that remind you to fill 
 
 #### [Classic view](#tab/classic-view)
 
-![Yellow warning boxes remind you to fill in your Apple ID and to provide your test credentials.](./images/new/step-3-yellow-warnings.png)
+:::image type="content" source="./images/new/step-3-yellow-warnings.png" alt-text="Yellow warning boxes remind you to fill in your Apple ID and to provide your test credentials.":::
 
 ---
 
