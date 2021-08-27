@@ -1,37 +1,58 @@
 ---
 title: View acquisitions report
 description: Analyze your app or add-in performance and see funnel and acquisitions metrics.
+localization_priority: Priority
 ms.author: mingshen
-localization_priority: Normal
+ms.date: 09/13/2021
 ---
 
 # View the Acquisitions report in the dashboard
 
-The [Acquisitions report](https://partner.microsoft.com/dashboard/analytics/office/acquisitions) in the Partner Center dashboard lets you see who has acquired and installed your add-in, app, or visual, and shows info about how customers have arrived at your Microsoft AppSource listing. 
+The [Acquisitions report](https://partner.microsoft.com/dashboard/analytics/office/acquisitions) in the Partner Center dashboard lets you see who has acquired and installed your add-in, app, or visual, and shows info about how customers have arrived at your Microsoft AppSource listing.
 
 In this report, an acquisition means a new customer has obtained a license to your solution (whether you charged money or you've offered it for free). If your solution supports multi-seat acquisitions, such as site license purchases, these will also be detailed and displayed.
 
-The Acquisitions report does not include data about refunds, reversals, chargebacks, and so on. To estimate your solution proceeds, visit Payout summary. 
+The Acquisitions report does not include data about refunds, reversals, chargebacks, and so on. To estimate your solution proceeds, visit Payout summary.
 
 The SLA for Acquisitions data is currently 4 days.
 
 > [!NOTE]
 > Acquisition data for Teams apps is currently not supported in this report.
 
+## View the Acquisitions report
+
+#### [Preview interface](#tab/new-web-form)
+
+1. Sign in to [Partner Center](https://partner.microsoft.com/dashboard/home). You can use the same username and password you use to manage Office Store products.
+
+1. Select the **Insights** tile.
+
+    :::image type="content" source="images/workspaces/insights-tile.png" alt-text="Illustrates the product GUID in the URL for an Office app.":::
+
+1. In the left-menu, select **Acquistions**.
+
+#### [Current interface](#tab/old-web-form)
+
+1. Sign in to [Partner Center](https://partner.microsoft.com/dashboard/home). You can use the same username and password you use to manage Office Store products.
+
+1. In the left-nav, select **Office Store** > **Overview** > **Analyze** > **Acquisitions**.
+
+---
+
 <a name="BKMK_Edit"> </a>
 ## Apply filters
 
 Near the top of the page, you can select the time period for which you want to show data. The default selection is 30D (30 days), but you can choose to show data for 2 or 3 months.
 You can also expand Filters to filter all of the data on this page by market.
+
 - Market: The default filter is All markets, but you can limit the data to acquisitions in one or more markets.
 
     > [!NOTE]
-    > Acquisitions via Centralized Deployment do not currently support market information. 
+    > Acquisitions via Centralized Deployment do not currently support market information.
 
 The info in all of the charts listed below will reflect the date range and any filters you've selected. Some sections also allow you to apply additional filters.
 
-
-## Acquisitions
+## Acquisitions chart
 
 The **Acquisitions** chart shows the number of daily or weekly acquisitions (a new customer obtaining a license for your app) over the selected period of time.
 
@@ -54,7 +75,7 @@ The values supported within the Acquisitions chart include:
    
  
 <a name="BKMK_delist"> </a>
-## Markets
+## Markets chart
 
 The **Markets** chart shows the total number of acquisitions over the selected period of time for each market in which your solution is available.
 
@@ -74,10 +95,10 @@ In this chart, a channel refers to the method in which a customer arrived at y
 - Custom campaign - The customer followed a link that used a [custom campaign ID](promote-your-office-store-solution.md).
 
 - Other - The customer followed an external link (without any custom campaign ID) from a website to your app's listing or the customer followed a link from a search engine to your app's listing.
-	
+
 A page view means that a customer viewed your solutions's Microsoft AppSource listing page. This includes views by people who aren't signed in. Some customers have opted out of providing this information to Microsoft.
 
-> [!NOTE] 
+> [!NOTE]
 > Customers can arrive at your app's listing by clicking a custom campaign not created by you. We stamp every page view within a session with the campaign ID from which the customer first landed on Microsoft AppSource. We then attribute conversions to that campaign ID for all acquisitions within 24 hours. Because of this, you might see a higher number of total conversions than the total conversions for your campaign IDs, and you might have conversions or add-on conversions that have zero page views.
 
 ## App page views and conversions by campaign ID
