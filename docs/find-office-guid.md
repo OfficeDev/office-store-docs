@@ -18,7 +18,7 @@ Follow these steps to find a GUID that identifies a product in Partner Center th
 
 1. Select the **Marketplace offers** tile.
 
-    :::image type="content" source="images/workspaces/marketplace-offers-tile.png" alt-text="Illustrates the product GUID in the URL of an Office app.":::
+    :::image type="content" source="images/workspaces/marketplace-offers-tile.png" alt-text="Illustrates the product GUID in the URL for an Office app.":::
 
 1. In the **Offer alias** column, select the product that the ISV wants the report for.
 
