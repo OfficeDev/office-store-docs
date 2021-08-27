@@ -58,8 +58,8 @@ The Device sessions chart shows the usage over the selected period of time for e
 You can view this data in a visual Map form, or toggle the setting to view it in Table form. Table form will show five markets at a time, sorted either alphabetically or by highest/lowest number of usages. You can also download the data to view information for all markets together.
 
 > [!NOTE]
-> Devices with unknown geographic locations are not recorded. Geographic locations for Outlook Web App are not available at this time. 
+> Devices with unknown geographic locations are not recorded. Geographic locations for Outlook Web App are not available at this time.
 
 ## See also
 
-- [View the acquisitions report in the dashboard](view-acquisitions-report.md#acquisitions)
+- [View the acquisitions report in the dashboard](view-acquisitions-report.md#Acquisitions-chart)
