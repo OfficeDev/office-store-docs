@@ -12,8 +12,6 @@ The [Acquisitions report](https://partner.microsoft.com/dashboard/analytics/offi
 
 In this report, an acquisition means a new customer has obtained a license to your solution (whether you charged money or you've offered it for free). If your solution supports multi-seat acquisitions, such as site license purchases, these will also be detailed and displayed.
 
-The Acquisitions report does not include data about refunds, reversals, chargebacks, and so on. To estimate your solution proceeds, visit Payout summary.
-
 The SLA for Acquisitions data is currently 4 days.
 
 > [!NOTE]
