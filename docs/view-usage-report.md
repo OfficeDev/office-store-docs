@@ -53,7 +53,7 @@ As a provider, if you have multiple apps listed on Microsoft AppSource, you can 
 
 ## Time period
 
-Near the top of the page, you can select the time period for which you want to see the usage. The default selection is 30D (30 days), but you can choose to show data for two or three months. 
+Near the top of the page, you can select the time period for which you want to see the usage. The default selection is 30D (30 days), but you can choose to show data for two or three months.
 
 :::image type="content" source="images/usage-timeline.png" alt-text="Usage Timeline ":::
 
@@ -80,7 +80,7 @@ The Cohort Active Usage (90D) chart shows how a group of users use your app week
 
 The week starts on Monday and ends on Sunday. 
 
-For example, for the week of June 1, 2020, the Week 1 usage is 5000, meaning 5000 distinct users launched an app successfully in that week. For the same week, if the Week 2 usage is 20%, that means that 1000 out of those 5000 users launched the same app successfully during the week of June 8. 
+For example, for the week of June 1, 2020, the Week 1 usage is 5000, meaning 5000 distinct users launched an app successfully in that week. For the same week, if the Week 2 usage is 20%, that means that 1000 out of those 5000 users launched the same app successfully during the week of June 8.
 
 Date filter doesn’t apply to this chart and it always shows cohort usage for 90 days. 
 

@@ -59,18 +59,11 @@ You can also see the lifetime number of acquisitions for your app by selecting A
 The values supported within the Acquisitions chart include:
 
 - Free - Webstore: Free acquisitions generated in web surfaces such as Microsoft AppSource.
-
 - Free - Client: Free acquisitions generated in store surfaces within the Office Apps. This includes Windows, Mac, and the web client.
-
 - Paid: These are paid acquisitions, and may be either perpetual or subscription based on your solution's payment model.
-
 - Trial: These are trial acquisitions. Length and expiration of these trial acquisitions are based on your selected trial lengths during the store submission process.
-
 - Site License: These are paid acquisitions where an entire tenant is provisioned with a license.
-
 - Deployment: These are the number of tenants who have deployed your solution. One tenant deployment here may generate multiple assignments. For the amount of end-users who received a license for your solution, please see the Assignments chart.
-
-   
  
 <a name="BKMK_delist"> </a>
 ## Markets chart
