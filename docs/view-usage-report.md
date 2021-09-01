@@ -8,15 +8,48 @@ ms.date: 11/24/2020
 
 # View the usage report in Partner Center
 
-The [Usage report](https://partner.microsoft.com/dashboard/analytics/office/usage) in the Partner Center dashboard lets you see how many customers use your Microsoft 365 app after they acquire it from Microsoft AppSource.
+The _Usage report_ in the Partner Center dashboard lets you see how many customers use your Microsoft 365 app after they acquire it from Microsoft AppSource.
 
 In this report, a usage means a customer has successfully launched an app on any of the four Office apps (Word, Excel, PowerPoint, Outlook) and on any of the five platforms (Win32, Mac, Web, iOS, Android). If a customer launches an app on multiple platforms, it will be counted only once.
 
-The SLA for acquisitions data is currently four days.
+The service level agreement (SLA) for acquisitions data is currently four days.
 
-## Multiple apps 
+## How to view the Usage report
 
-As a provider, if you have multiple apps listed on Microsoft AppSource, you can pick an app from a drop-down by clicking the two-directional arrow icon :::image type="content" source="images/usage-bidirec-arrow.png" alt-text="Usage Bidirectional Arrow "::: near top left side of a page. Usage of only one app at a time is displayed on a page.
+#### [Preview interface](#tab/new-web-form)
+
+1. Sign in to [Partner Center](https://partner.microsoft.com/dashboard/home). You can use the same username and password you use to manage Office Store products.
+
+1. Select the **Insights** tile.
+
+    :::image type="content" source="images/workspaces/insights-tile.png" alt-text="Illustrates the Insights tile on the Partner Center home page.":::
+
+1. In the left-menu, select **Usage**.
+
+#### [Current interface](#tab/old-web-form)
+
+1. Sign in to [Partner Center](https://partner.microsoft.com/dashboard/home). You can use the same username and password you use to manage Office Store products.
+
+1. In the left-nav, select **Office Store** > **Overview** > **Analyze** > **Usage**.
+
+---
+
+## Multiple apps
+
+#### [Preview interface](#tab/new-web-form)
+
+As a provider, if you have multiple apps listed on Microsoft AppSource, you can pick the app you want to view the usage for from the list near the upper-left corner of the page.
+
+[ ![Screenshot of the Usage dashboard showing the multiple apps list.](images/view-usage-report/multiple-apps.png) ](images/view-usage-report/multiple-apps.png#lightbox)
+
+> [!NOTE]
+> Usage of only one app at a time is displayed on the Usage dashboard.
+
+#### [Current interface](#tab/old-web-form)
+
+As a provider, if you have multiple apps listed on Microsoft AppSource, you can pick an app from a drop-down by selecting the two-directional arrow icon :::image type="content" source="images/usage-bidirec-arrow.png" alt-text="Usage Bidirectional Arrow "::: near top left side of a page. Usage of only one app at a time is displayed on a page.
+
+---
 
 ## Time period
 
@@ -26,11 +59,11 @@ Near the top of the page, you can select the time period for which you want to s
 
 ## Filters
 
-Near the top right side of a page, you can apply different filters to filter all the data on this page by the following: 
+Near the upper-right side of a page, you can apply different filters to filter all the data on this page by the following: 
 
-- **Market**: The default filter is All markets, but you can limit the data by selecting a particular region. 
-- **Office Apps**: The default filter is All Office Apps, but you can limit the data by selecting a particular App.
-- **Platform**: The default filter is All platforms, but you can limit the data by selecting a particular platform.
+- **Market**: The default filter is _All markets_, but you can limit the data by selecting a particular region.
+- **Office Apps**: The default filter is _All Office Apps_, but you can limit the data by selecting a particular App.
+- **Platform**: The default filter is _All platforms_, but you can limit the data by selecting a particular platform.
 
 > [!Note]
 > Currently, you can't choose multiple selections.

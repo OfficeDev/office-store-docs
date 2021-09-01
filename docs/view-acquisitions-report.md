@@ -8,7 +8,7 @@ ms.date: 09/13/2021
 
 # View the Acquisitions report in the dashboard
 
-The [Acquisitions report](https://partner.microsoft.com/dashboard/analytics/office/acquisitions) in the Partner Center dashboard lets you see who has acquired and installed your add-in, app, or visual, and shows info about how customers have arrived at your Microsoft AppSource listing.
+The _Acquisitions report_ in the Partner Center dashboard lets you see who has acquired and installed your add-in, app, or visual, and shows info about how customers have arrived at your Microsoft AppSource listing.
 
 In this report, an acquisition means a new customer has obtained a license to your solution (whether you charged money or you've offered it for free). If your solution supports multi-seat acquisitions, such as site license purchases, these will also be detailed and displayed.
 
@@ -17,7 +17,7 @@ The SLA for Acquisitions data is currently 4 days.
 > [!NOTE]
 > Acquisition data for Teams apps is currently not supported in this report.
 
-## View the Acquisitions report
+## How to view the Acquisitions report
 
 #### [Preview interface](#tab/new-web-form)
 
@@ -25,7 +25,7 @@ The SLA for Acquisitions data is currently 4 days.
 
 1. Select the **Insights** tile.
 
-    :::image type="content" source="images/workspaces/insights-tile.png" alt-text="Illustrates the product GUID in the URL for an Office app.":::
+    :::image type="content" source="images/workspaces/insights-tile.png" alt-text="Illustrates the Insights tile on the Partner Center home page.":::
 
 1. In the left-menu, select **Acquistions**.
 
