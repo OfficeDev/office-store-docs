@@ -21,7 +21,7 @@ The service level agreement (SLA) for acquisitions data is currently four days.
 
 1. Select the **Insights** tile.
 
-    :::image type="content" source="images/workspaces/insights-tile.png" alt-text="Illustrates the Insights tile on the Partner Center home page.":::
+    :::image type="content" source="images/insights-tile.png" alt-text="Illustrates the Insights tile on the Partner Center home page.":::
 
 1. In the left-menu, select **Usage**.
 

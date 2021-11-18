@@ -24,7 +24,7 @@ The SLA for Acquisitions data is currently 4 days.
 
 1. Select the **Insights** tile.
 
-    :::image type="content" source="images/workspaces/insights-tile.png" alt-text="Illustrates the Insights tile on the Partner Center home page.":::
+    :::image type="content" source="images/insights-tile.png" alt-text="Illustrates the Insights tile on the Partner Center home page.":::
 
 1. In the left-menu, select **Acquistions**.
 
