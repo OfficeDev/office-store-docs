@@ -4,11 +4,10 @@ description: Analyze your app or add-in performance and see funnel and acquisiti
 ms.localizationpriority: medium
 ms.author: mingshen
 ms.reviewer: dannyevers
-ms.date: 09/27/2021
+ms.date: 11/22/2021
 ---
 
-# View the Acquisitions report in the dashboard![image](https://user-images.githubusercontent.com/62076972/134597753-6fd281d2-9cdd-4ba0-b45d-645ca18e22d1.png)
-
+# View the Acquisitions report in the dashboard
 
 The _Acquisitions report_ in the Partner Center dashboard lets you see who has acquired and installed your add-in, app, or visual, and shows info about how customers have arrived at your Microsoft AppSource listing.
 
@@ -21,8 +20,6 @@ The SLA for Acquisitions data is currently 4 days.
 
 ## How to view the Acquisitions report
 
-#### [Workspaces view](#tab/workspaces-view)
-
 1. Sign in to [Partner Center](https://partner.microsoft.com/dashboard/home). You can use the same username and password you use to manage Office Store products.
 
 1. Select the **Insights** tile.
@@ -30,14 +27,6 @@ The SLA for Acquisitions data is currently 4 days.
     :::image type="content" source="images/workspaces/insights-tile.png" alt-text="Illustrates the Insights tile on the Partner Center home page.":::
 
 1. In the left-menu, select **Acquistions**.
-
-#### [Current view](#tab/current-view)
-
-1. Sign in to [Partner Center](https://partner.microsoft.com/dashboard/home). You can use the same username and password you use to manage Office Store products.
-
-1. In the left-nav, select **Office Store** > **Overview** > **Analyze** > **Acquisitions**.
-
----
 
 <a name="BKMK_Edit"> </a>
 ## Apply filters
