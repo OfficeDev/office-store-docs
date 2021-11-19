@@ -4,7 +4,7 @@ description: Analyze the usage of your app or add-in after users acquire it from
 ms.localizationpriority: medium
 ms.author: mingshen
 ms.reviewer: dannyevers
-ms.date: 9/13/2021
+ms.date: 11/22/2021
 ---
 
 # View the usage report in Partner Center
@@ -17,8 +17,6 @@ The service level agreement (SLA) for acquisitions data is currently four days.
 
 ## How to view the Usage report
 
-#### [Workspaces view](#tab/workspaces-view)
-
 1. Sign in to [Partner Center](https://partner.microsoft.com/dashboard/home). You can use the same username and password you use to manage Office Store products.
 
 1. Select the **Insights** tile.
@@ -27,17 +25,7 @@ The service level agreement (SLA) for acquisitions data is currently four days.
 
 1. In the left-menu, select **Usage**.
 
-#### [Current view](#tab/current-view)
-
-1. Sign in to [Partner Center](https://partner.microsoft.com/dashboard/home). You can use the same username and password you use to manage Office Store products.
-
-1. In the left-nav, select **Office Store** > **Overview** > **Analyze** > **Usage**.
-
----
-
 ## Multiple apps
-
-#### [Workspaces view](#tab/workspaces-view)
 
 As a provider, if you have multiple apps listed on Microsoft AppSource, you can pick the app you want to view the usage for from the list near the upper-left corner of the page.
 
@@ -45,12 +33,6 @@ As a provider, if you have multiple apps listed on Microsoft AppSource, you can 
 
 > [!NOTE]
 > Usage of only one app at a time is displayed on the Usage dashboard.
-
-#### [Current view](#tab/current-view)
-
-As a provider, if you have multiple apps listed on Microsoft AppSource, you can pick an app from a drop-down by selecting the two-directional arrow icon :::image type="content" source="images/usage-bidirec-arrow.png" alt-text="Usage Bidirectional Arrow "::: near top left side of a page. Usage of only one app at a time is displayed on a page.
-
----
 
 ## Time period
 
