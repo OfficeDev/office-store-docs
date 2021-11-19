@@ -3,7 +3,7 @@ title: Find a Microsoft 365 product GUID in Partner Center
 description: Find the GUID for a Microsoft 365 product in Partner Center.
 ms.localizationpriority: medium
 ms.author: mingshen
-ms.date: 11/22/2021
+ms.date: 11/23/2021
 ---
 
 # Find a Microsoft 365 product GUID in Partner Center
