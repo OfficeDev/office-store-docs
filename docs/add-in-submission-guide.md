@@ -3,7 +3,7 @@ title: Microsoft 365 Store step-by-step submission guide
 description:  Use this step-by-step submission guide to submit your app to the Microsoft stores. 
 ms.localizationpriority: medium
 ms.author: mingshen
-ms.date: 07/01/2022
+ms.date: 08/01/2022
 ---
 
 # Store step-by-step submission guide
