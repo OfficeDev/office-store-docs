@@ -249,11 +249,6 @@
       "source_path": "docs/why-publish.md",
       "redirect_url": "https://docs.microsoft.com/azure/marketplace/why-publish",
       "redirect_document_id": false
-    },
-    {
-      "source_path": "docs/toc.yml",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/why-publish",
-      "redirect_document_id": false
     }
   ]
 }
