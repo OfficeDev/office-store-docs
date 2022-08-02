@@ -146,8 +146,8 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "docs/index.yml	",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/index.yml",
+      "source_path": "docs/index.yml",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/why-publish",
       "redirect_document_id": false
     },
     {
@@ -181,8 +181,8 @@
       "redirect_document_id": false
     },
     {
-      "source_path": "docs/partner-center-faq.yml	",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/partner-center-faq.yml",
+      "source_path": "docs/partner-center-faq.yml",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/partner-center-faq",
       "redirect_document_id": false
     },
     {
