@@ -89,6 +89,171 @@
       "source_path": "docs/use-partner-center-to-submit-to-appsource.md",
       "redirect_url": "https://docs.microsoft.com/office/dev/store/add-in-submission-guide",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/add-in-submission-guide.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/add-in-submission-guide",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/add-setup-details.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/add-setup-details",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/appsource-listing.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/appsource-listing",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/appsource-submission-faq.yml",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/appsource-submission-faq",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/checklist.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/checklist",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/craft-effective-appsource-store-images.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/craft-effective-appsource-store-images",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/create-effective-office-store-listings.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/create-effective-office-store-listings",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/create-or-update-client-ids-and-secrets.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/create-or-update-client-ids-and-secrets",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/define-office-solution-properties.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/define-office-solution-properties",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/find-office-guid.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/find-office-guid",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/getting-started.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/getting-started",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/index.yml",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/why-publish",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/manage-account-settings-and-profile.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/manage-account-settings-and-profile",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/manage-solution-names.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/manage-solution-names",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/monetize-addins-through-microsoft-commercial-marketplace.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/monetize-addins-through-microsoft-commercial-marketplace",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/moving-from-paid-to-free-addins.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/moving-from-paid-to-free-addins",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/open-a-developer-account.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/open-a-developer-account",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/optimize-for-store-discovery.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/optimize-for-store-discovery",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/partner-center-faq.yml",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/partner-center-faq",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/prepare-localized-solutions.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/prepare-localized-solutions",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/promote-your-office-store-solution.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/promote-your-office-store-solution",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/ratings-reviews.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/ratings-reviews",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/reserve-solution-name.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/reserve-solution-name",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/specify-availability.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/specify-availability",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/submit-sharepoint-add-ins-for-office-365-operated-by-21vianet-in-china.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/submit-sharepoint-add-ins-for-office-365-operated-by-21vianet-in-china",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/submit-to-appsource-via-partner-center.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/submit-to-appsource-via-partner-center",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/submit-to-stores.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/submit-to-stores",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/teams-apps-usage.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/teams-apps-usage",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/upload-package.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/upload-package",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/view-acquisitions-report.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/view-acquisitions-report",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/view-usage-report.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/view-usage-report",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/why-publish.md",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/why-publish",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "docs/toc.yml",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/why-publish",
+      "redirect_document_id": false
     }
   ]
 }
