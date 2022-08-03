@@ -2,27 +2,27 @@
   "redirections": [
     {
       "source_path": "docs/add-in-license-schema.md",
-      "redirect_url": "https://docs.microsoft.com/office/dev/store/moving-from-paid-to-free-addins",
+      "redirect_url": "https://docs.microsoft.com/office/dev/store/why-publish",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/implement-licensing-for-add-in-services.md",
-      "redirect_url": "https://docs.microsoft.com/office/dev/store/moving-from-paid-to-free-addins",
+      "redirect_url": "https://docs.microsoft.com/office/dev/store/why-publish",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/add-license-checks-to-office-and-sharepoint-add-ins.md",
-      "redirect_url": "https://docs.microsoft.com/office/dev/store/moving-from-paid-to-free-addins",
+      "redirect_url": "https://docs.microsoft.com/office/dev/store/why-publish",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/how-licenses-work.md",
-      "redirect_url": "https://docs.microsoft.com/office/dev/store/moving-from-paid-to-free-addins",
+      "redirect_url": "https://docs.microsoft.com/office/dev/store/why-publish",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/license-your-add-ins.md",
-      "redirect_url": "https://docs.microsoft.com/office/dev/store/moving-from-paid-to-free-addins",
+      "redirect_url": "https://docs.microsoft.com/office/dev/store/why-publish",
       "redirect_document_id": false
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "source_path": "docs/add-lead-management-details.md",
-      "redirect_url": "https://docs.microsoft.com/office/dev/store/add-setup-details",
+      "redirect_url": "https://docs.microsoft.com/office/dev/store/why-publish",
       "redirect_document_id": false
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       "source_path": "docs/add-setup-details.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/add-setup-details",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/why-publish",
       "redirect_document_id": false
     },
     {
@@ -132,7 +132,7 @@
     },
     {
       "source_path": "docs/define-office-solution-properties.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/define-office-solution-properties",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/why-publish",
       "redirect_document_id": false
     },
     {
@@ -142,7 +142,7 @@
     },
     {
       "source_path": "docs/getting-started.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/getting-started",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/why-publish",
       "redirect_document_id": false
     },
     {
@@ -167,7 +167,7 @@
     },
     {
       "source_path": "docs/moving-from-paid-to-free-addins.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/moving-from-paid-to-free-addins",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/why-publish",
       "redirect_document_id": false
     },
     {
@@ -182,7 +182,7 @@
     },
     {
       "source_path": "docs/partner-center-faq.yml",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/partner-center-faq",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/why-publish",
       "redirect_document_id": false
     },
     {
@@ -207,7 +207,7 @@
     },
     {
       "source_path": "docs/specify-availability.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/specify-availability",
+      "redirect_url": "https://docs.microsoft.com/azure/marketplace/why-publish",
       "redirect_document_id": false
     },
     {
