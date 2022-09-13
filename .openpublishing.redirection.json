@@ -2,252 +2,252 @@
   "redirections": [
     {
       "source_path": "docs/add-in-license-schema.md",
-      "redirect_url": "https://docs.microsoft.com/office/dev/store/why-publish",
+      "redirect_url": "/office/dev/store/why-publish",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/implement-licensing-for-add-in-services.md",
-      "redirect_url": "https://docs.microsoft.com/office/dev/store/why-publish",
+      "redirect_url": "/office/dev/store/why-publish",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/add-license-checks-to-office-and-sharepoint-add-ins.md",
-      "redirect_url": "https://docs.microsoft.com/office/dev/store/why-publish",
+      "redirect_url": "/office/dev/store/why-publish",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/how-licenses-work.md",
-      "redirect_url": "https://docs.microsoft.com/office/dev/store/why-publish",
+      "redirect_url": "/office/dev/store/why-publish",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/license-your-add-ins.md",
-      "redirect_url": "https://docs.microsoft.com/office/dev/store/why-publish",
+      "redirect_url": "/office/dev/store/why-publish",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/use-the-seller-dashboard-to-submit-apps-and-add-ins-to-the-office-store.md",
-      "redirect_url": "https://docs.microsoft.com/office/dev/store/use-partner-center-to-submit-to-appsource",
+      "redirect_url": "/office/dev/store/use-partner-center-to-submit-to-appsource",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/decide-on-a-pricing-model.md",
-      "redirect_url": "https://docs.microsoft.com/office/dev/store/monetize-addins-through-microsoft-commercial-marketplace",
+      "redirect_url": "/office/dev/store/monetize-addins-through-microsoft-commercial-marketplace",
       "redirect_document_id": true
     },
     {
       "source_path": "docs/prepare-localized-apps-and-add-ins.md",
-      "redirect_url": "https://docs.microsoft.com/office/dev/store/prepare-localized-solutions",
+      "redirect_url": "/office/dev/store/prepare-localized-solutions",
       "redirect_document_id": true
     },
     {
       "source_path": "docs/validation-policies.md",
-      "redirect_url": "https://docs.microsoft.com/legal/marketplace/certification-policies",
+      "redirect_url": "/legal/marketplace/certification-policies",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/office-store-listing.md",
-      "redirect_url": "https://docs.microsoft.com/office/dev/store/appsource-listing",
+      "redirect_url": "/office/dev/store/appsource-listing",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/add-lead-management-details.md",
-      "redirect_url": "https://docs.microsoft.com/office/dev/store/why-publish",
+      "redirect_url": "/office/dev/store/why-publish",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/office-store-submission-faq.md",
-      "redirect_url": "https://docs.microsoft.com/office/dev/store/appsource-submission-faq",
+      "redirect_url": "/office/dev/store/appsource-submission-faq",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/prepare-localized-add-ins.md",
-      "redirect_url": "https://docs.microsoft.com/office/dev/store/appsource-listing",
+      "redirect_url": "/office/dev/store/appsource-listing",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/seller-dashboard-accessibility-features.md",
-      "redirect_url": "https://docs.microsoft.com/office/dev/store/submit-to-the-office-store",
+      "redirect_url": "/office/dev/store/submit-to-the-office-store",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/submit-to-the-office-store.md",
-      "redirect_url": "https://docs.microsoft.com/office/dev/store/submit-to-appsource-via-partner-center",
+      "redirect_url": "/office/dev/store/submit-to-appsource-via-partner-center",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/update-unpublish-and-view-metrics.md",
-      "redirect_url": "https://docs.microsoft.com/office/dev/store/use-partner-center-to-submit-to-appsource",
+      "redirect_url": "/office/dev/store/use-partner-center-to-submit-to-appsource",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/use-the-seller-dashboard-to-submit-to-the-office-store.md",
-      "redirect_url": "https://docs.microsoft.com/office/dev/store/use-partner-center-to-submit-to-appsource",
+      "redirect_url": "/office/dev/store/use-partner-center-to-submit-to-appsource",
       "redirect_document_id": false
     }, 
     {
       "source_path": "docs/use-partner-center-to-submit-to-appsource.md",
-      "redirect_url": "https://docs.microsoft.com/office/dev/store/add-in-submission-guide",
+      "redirect_url": "/office/dev/store/add-in-submission-guide",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/add-in-submission-guide.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/add-in-submission-guide",
+      "redirect_url": "/azure/marketplace/add-in-submission-guide",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/add-setup-details.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/why-publish",
+      "redirect_url": "/azure/marketplace/why-publish",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/appsource-listing.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/appsource-listing",
+      "redirect_url": "/azure/marketplace/appsource-listing",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/appsource-submission-faq.yml",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/appsource-submission-faq",
+      "redirect_url": "/azure/marketplace/appsource-submission-faq",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/checklist.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/checklist",
+      "redirect_url": "/azure/marketplace/checklist",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/craft-effective-appsource-store-images.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/craft-effective-appsource-store-images",
+      "redirect_url": "/azure/marketplace/craft-effective-appsource-store-images",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/create-effective-office-store-listings.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/create-effective-office-store-listings",
+      "redirect_url": "/azure/marketplace/create-effective-office-store-listings",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/create-or-update-client-ids-and-secrets.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/create-or-update-client-ids-and-secrets",
+      "redirect_url": "/azure/marketplace/create-or-update-client-ids-and-secrets",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/define-office-solution-properties.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/why-publish",
+      "redirect_url": "/azure/marketplace/why-publish",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/find-office-guid.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/find-office-guid",
+      "redirect_url": "/azure/marketplace/find-office-guid",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/getting-started.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/why-publish",
+      "redirect_url": "/azure/marketplace/why-publish",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/index.yml",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/why-publish",
+      "redirect_url": "/azure/marketplace/why-publish",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/manage-account-settings-and-profile.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/manage-account-settings-and-profile",
+      "redirect_url": "/azure/marketplace/manage-account-settings-and-profile",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/manage-solution-names.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/manage-solution-names",
+      "redirect_url": "/azure/marketplace/manage-solution-names",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/monetize-addins-through-microsoft-commercial-marketplace.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/monetize-addins-through-microsoft-commercial-marketplace",
+      "redirect_url": "/azure/marketplace/monetize-addins-through-microsoft-commercial-marketplace",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/moving-from-paid-to-free-addins.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/why-publish",
+      "redirect_url": "/azure/marketplace/why-publish",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/open-a-developer-account.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/open-a-developer-account",
+      "redirect_url": "/azure/marketplace/open-a-developer-account",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/optimize-for-store-discovery.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/optimize-for-store-discovery",
+      "redirect_url": "/azure/marketplace/optimize-for-store-discovery",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/partner-center-faq.yml",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/why-publish",
+      "redirect_url": "/azure/marketplace/why-publish",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/prepare-localized-solutions.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/prepare-localized-solutions",
+      "redirect_url": "/azure/marketplace/prepare-localized-solutions",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/promote-your-office-store-solution.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/promote-your-office-store-solution",
+      "redirect_url": "/azure/marketplace/promote-your-office-store-solution",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/ratings-reviews.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/ratings-reviews",
+      "redirect_url": "/azure/marketplace/ratings-reviews",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/reserve-solution-name.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/reserve-solution-name",
+      "redirect_url": "/azure/marketplace/reserve-solution-name",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/specify-availability.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/why-publish",
+      "redirect_url": "/azure/marketplace/why-publish",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/submit-sharepoint-add-ins-for-office-365-operated-by-21vianet-in-china.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/submit-sharepoint-add-ins-for-office-365-operated-by-21vianet-in-china",
+      "redirect_url": "/azure/marketplace/submit-sharepoint-add-ins-for-office-365-operated-by-21vianet-in-china",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/submit-to-appsource-via-partner-center.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/submit-to-appsource-via-partner-center",
+      "redirect_url": "/azure/marketplace/submit-to-appsource-via-partner-center",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/submit-to-stores.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/submit-to-stores",
+      "redirect_url": "/azure/marketplace/submit-to-stores",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/teams-apps-usage.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/teams-apps-usage",
+      "redirect_url": "/azure/marketplace/teams-apps-usage",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/upload-package.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/upload-package",
+      "redirect_url": "/azure/marketplace/upload-package",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/view-acquisitions-report.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/view-acquisitions-report",
+      "redirect_url": "/azure/marketplace/view-acquisitions-report",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/view-usage-report.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/view-usage-report",
+      "redirect_url": "/azure/marketplace/view-usage-report",
       "redirect_document_id": false
     },
     {
       "source_path": "docs/why-publish.md",
-      "redirect_url": "https://docs.microsoft.com/azure/marketplace/why-publish",
+      "redirect_url": "/azure/marketplace/why-publish",
       "redirect_document_id": false
     }
   ]
