@@ -1,17 +1,17 @@
 # Microsoft 365 App Stores documentation
 
-Welcome to the Microsoft 365 App Stores documentation. Here you can find content related to publishing apps and add-ins to AppSource. When you add your solution to AppSource, you also make it available in the Microsoft 365 app store within products like Teams, SharePoint, Word, Excel, PowerPoint, and Outlook. For the best experience, we recommend that you view this content on [Microsoft Docs](https://docs.microsoft.com/office/dev/store/submit-to-appsource-via-partner-center).
+Welcome to the Microsoft 365 App Stores documentation. Here you can find content related to publishing apps and add-ins to AppSource. When you add your solution to AppSource, you also make it available in the Microsoft 365 app store within products like Teams, SharePoint, Word, Excel, PowerPoint, and Outlook. For the best experience, we recommend that you view this content on [Microsoft Docs](https://learn.microsoft.com/office/dev/store/submit-to-appsource-via-partner-center).
 
 ## Publish. Certify. Monetize.
 
-[Publish your app](https://docs.microsoft.com/marketplace/appsource-overview)
+[Publish your app](https://learn.microsoft.com/marketplace/appsource-overview)
 [Certify through the Microsoft 365 App Compliance Program](https://developer.microsoft.com/microsoft-365/app-compliance-program)
-[Monetize your app](https://docs.microsoft.com/marketplace/what-is-commercial-marketplace)
+[Monetize your app](https://learn.microsoft.com/marketplace/what-is-commercial-marketplace)
 
 ## Additional resources
 
-[Publish your app to the Microsoft Teams store](https://docs.microsoft.com/microsoftteams/platform/concepts/deploy-and-publish/appsource/publish)
-[Get help with your app submissions](https://docs.microsoft.com/microsoftteams/platform/concepts/deploy-and-publish/appsource/resolve-submission-issues)
+[Publish your app to the Microsoft Teams store](https://learn.microsoft.com/microsoftteams/platform/concepts/deploy-and-publish/appsource/publish)
+[Get help with your app submissions](https://learn.microsoft.com/microsoftteams/platform/concepts/deploy-and-publish/appsource/resolve-submission-issues)
 [Become a partner on AppSource](https://appsource.microsoft.com/partners)
 [Contact Microsoft Support](https://support.microsoft.com/contactus/)
 
