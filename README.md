@@ -1,6 +1,6 @@
 # Microsoft 365 App Stores documentation
 
-Welcome to the Microsoft 365 App Stores documentation. Here you can find content related to publishing apps and add-ins to AppSource. When you add your solution to AppSource, you also make it available in the Microsoft 365 app store within products like Teams, SharePoint, Word, Excel, PowerPoint, and Outlook. For the best experience, we recommend that you view this content on [Microsoft Docs](https://learn.microsoft.com/office/dev/store/submit-to-appsource-via-partner-center).
+Welcome to the Microsoft 365 App Stores documentation. Here you can find content related to publishing apps and add-ins to AppSource. When you add your solution to AppSource, you also make it available in the Microsoft 365 app store within products like Teams, SharePoint, Word, Excel, PowerPoint, and Outlook. For the best experience, we recommend that you view this content on [Microsoft Learn](https://learn.microsoft.com/office/dev/store/submit-to-appsource-via-partner-center).
 
 ## Publish. Certify. Monetize.
 
@@ -19,7 +19,7 @@ Welcome to the Microsoft 365 App Stores documentation. Here you can find content
 
 Your feedback is important to us.
 
-* To let us know about any questions or issues you find in the docs, [submit an issue](https://github.com/OfficeDev/office-store-docs/issues) in this repository.  
+* To let us know about any questions you have or issues you find in the documentation, [submit an issue](https://github.com/OfficeDev/office-store-docs/issues) in this repository.  
 * We also encourage you to fork, make the fix, and do a pull request of your proposed changes. For details, see [Contribute to this documentation](contributing.md).
 
 ## Copyright
