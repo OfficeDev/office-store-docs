@@ -4,16 +4,16 @@ Welcome to the Microsoft 365 App Stores documentation. Here you can find content
 
 ## Publish. Certify. Monetize.
 
-[Publish your app](https://learn.microsoft.com/marketplace/appsource-overview)
-[Certify through the Microsoft 365 App Compliance Program](https://developer.microsoft.com/microsoft-365/app-compliance-program)
-[Monetize your app](https://learn.microsoft.com/marketplace/what-is-commercial-marketplace)
+* [Publish your app](https://learn.microsoft.com/marketplace/appsource-overview)
+* [Certify through the Microsoft 365 App Compliance Program](https://developer.microsoft.com/microsoft-365/app-compliance-program)
+* [Monetize your app](https://learn.microsoft.com/marketplace/what-is-commercial-marketplace)
 
 ## Additional resources
 
-[Publish your app to the Microsoft Teams store](https://learn.microsoft.com/microsoftteams/platform/concepts/deploy-and-publish/appsource/publish)
-[Get help with your app submissions](https://learn.microsoft.com/microsoftteams/platform/concepts/deploy-and-publish/appsource/resolve-submission-issues)
-[Become a partner on AppSource](https://appsource.microsoft.com/partners)
-[Contact Microsoft Support](https://support.microsoft.com/contactus/)
+* [Publish your app to the Microsoft Teams store](https://learn.microsoft.com/microsoftteams/platform/concepts/deploy-and-publish/appsource/publish)
+* [Get help with your app submissions](https://learn.microsoft.com/microsoftteams/platform/concepts/deploy-and-publish/appsource/resolve-submission-issues)
+* [Become a partner on AppSource](https://appsource.microsoft.com/partners)
+* [Contact Microsoft Support](https://support.microsoft.com/contactus/)
 
 ## Give us your feedback
 
